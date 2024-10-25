@@ -19,4 +19,4 @@ given credit for their contributions in our documentation.
 
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
-- [basemax](https://github.com/BaseMax)
+- [Max Base](https://github.com/BaseMax)
