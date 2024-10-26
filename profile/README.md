@@ -15,6 +15,11 @@ Would you like to join our progressive social chess club right here on GitHub ? 
 projects, repositories and websites ? All contributors will be invited to this GitHub Organization and every contributor will be
 given credit for their contributions in our documentation. 
 
+## Maintainers
+
+- [John Bampton](https://github.com/jbampton)
+- [garveybiz](https://github.com/garveybiz)
+
 ## Contributors
 
 - [John Bampton](https://github.com/jbampton)
