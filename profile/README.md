@@ -20,7 +20,7 @@ given credit for their contributions in our documentation.
 ## Committee
 
 - Jimmy - President
-- Matt - Treasurer
+- [Matt McLean](https://github.com/EmikoAlice497) - Treasurer
 - Steve - Secretary
 - [garveybiz](https://github.com/garveybiz) - Auditor
 - Ben - General member
