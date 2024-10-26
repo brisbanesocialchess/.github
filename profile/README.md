@@ -1,5 +1,7 @@
 # Welcome to Brisbane Social Chess
 
+We are a registered community organisation in Queensland with a committee.
+
 ## Four Meetups Every Week
 
 We are playing real in person over the board chess four times a week at four different locations across Brisbane city.
