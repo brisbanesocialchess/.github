@@ -15,6 +15,16 @@ Would you like to join our progressive social chess club right here on GitHub ? 
 projects, repositories and websites ? All contributors will be invited to this GitHub Organization and every contributor will be
 given credit for their contributions in our documentation. 
 
+## Committee
+
+- Jimmy - President
+- Matt - Treasurer
+- Steve - Secretary
+- [garveybiz](https://github.com/garveybiz) - Auditor
+- Ben - General member
+- Adam - General member
+- [John Bampton](https://github.com/jbampton) - General member
+
 ## Maintainers
 
 - [John Bampton](https://github.com/jbampton)
