@@ -65,3 +65,8 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [SM Riad](https://github.com/smriad)
+
+## FIDE Masters
+
+Join the Brisbane Social Chess GitHub Organization now !! Become our
+first GitHub Chess Master.
