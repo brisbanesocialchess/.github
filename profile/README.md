@@ -1,3 +1,5 @@
+![Brisbane Social Chess](images/brisbane-social-chess.webp)
+
 # Welcome to Brisbane Social Chess Inc.
 
 We are a registered community organisation in Queensland with a committee.
@@ -6,10 +8,10 @@ We are a registered community organisation in Queensland with a committee.
 
 We are playing real in person over the board chess four times a week at four different locations across Brisbane city.
 
-- Wednesday lunch time 12pm until 2:30pm - **June's Cafe**: 17 Lytton Rd, East Brisbane QLD 4169
+- Wednesday lunchtime 12pm until 2:30pm - **June's Cafe**: 17 Lytton Rd, East Brisbane QLD 4169
 - Thursday night 6pm to 8pm - **Royal Hotel**: 1259 Sandgate Rd, Nundah QLD 4012
 - Saturday morning 9am until 2pm - **West End Park Cafe**: 305 Montague Rd, West End QLD 4101
-- Sunday lunch time 11am to 2pm - **The Coffee Club Café** Oaks Brisbane on Charlotte Suites: 128 Charlotte St, Brisbane City QLD 4000
+- Sunday lunchtime 11am to 2pm - **The Coffee Club Café** Oaks Brisbane on Charlotte Suites: 128 Charlotte St, Brisbane City QLD 4000
 
 ## Our motto? Fun, friendly and free
 
@@ -27,7 +29,7 @@ your GitHub profile to your chess profiles. For example on GitHub you can add th
 chess dot com and lichess, and on the chess sites you can add your GitHub profile link.
 
 - Super Grandmasters
-- GrandMasters (GM)
+- Grandmasters (GM)
 - International Masters (IM)
 - FIDE Masters (FM)
 - Candidate Masters (CM)
