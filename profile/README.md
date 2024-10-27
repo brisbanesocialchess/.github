@@ -40,3 +40,4 @@ given credit for their contributions in our documentation.
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [Jack Wu](https://github.com/jackneer)
 - [SM Riad](https://github.com/smriad)
+- [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
