@@ -58,3 +58,10 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Jack Wu](https://github.com/jackneer)
 - [SM Riad](https://github.com/smriad)
 - [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
+
+## Discord Moderators
+
+- [John Bampton](https://github.com/jbampton)
+- [Max Base](https://github.com/BaseMax)
+- [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
+- [SM Riad](https://github.com/smriad)
