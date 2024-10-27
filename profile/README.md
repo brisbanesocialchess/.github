@@ -67,7 +67,7 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [SM Riad](https://github.com/smriad)
 - [Ayush Rana](https://github.com/ayushrana182)
-- [Nicholas Meredith ](https://github.com/udha)
+- [Nicholas Meredith](https://github.com/udha)
 
 ## FIDE Masters
 
