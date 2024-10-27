@@ -39,3 +39,4 @@ given credit for their contributions in our documentation.
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [Jack Wu](https://github.com/jackneer)
+- [SM Riad](https://github.com/smriad)
