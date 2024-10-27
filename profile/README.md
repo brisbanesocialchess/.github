@@ -17,7 +17,7 @@ Would you like to join our progressive social chess club right here on GitHub ? 
 projects, repositories and websites ? All contributors will be invited to this GitHub Organization and every contributor will be
 given credit for their contributions in our documentation. 
 
-## Committee
+## Management Committee
 
 - Jimmy - President
 - [Matt McLean](https://github.com/EmikoAlice497) - Treasurer
@@ -27,12 +27,12 @@ given credit for their contributions in our documentation.
 - Adam - General member
 - [John Bampton](https://github.com/jbampton) - General member
 
-## Maintainers
+## GitHub Maintainers
 
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
-## Contributors
+## GitHub Contributors
 
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
