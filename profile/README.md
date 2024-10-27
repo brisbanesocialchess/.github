@@ -58,6 +58,7 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Jack Wu](https://github.com/jackneer)
 - [SM Riad](https://github.com/smriad)
 - [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
+- [Taylor Dean](https://github.com/TylrDn)
 
 ## Discord Moderators
 
