@@ -66,6 +66,7 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [SM Riad](https://github.com/smriad)
+- [Ayush Rana](https://github.com/ayushrana182)
 
 ## FIDE Masters
 
