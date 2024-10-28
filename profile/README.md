@@ -1,33 +1,35 @@
 ![Brisbane Social Chess](images/brisbane-social-chess.webp)
 
-# Welcome to Brisbane Social Chess Inc.
+# Brisbane Social Chess Inc.
 
-We are a registered community organisation in Queensland with a committee.
+Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
-## Four Meetups Every Week
+## 🗓️ Weekly Meetups
 
-We are playing real in person over the board chess four times a week at four different locations across Brisbane city.
+Join us at any of our four weekly locations across Brisbane:
 
-- Wednesday lunchtime 12pm until 2:30pm - **June's Cafe**: 17 Lytton Rd, East Brisbane QLD 4169
-- Thursday night 6pm to 8pm - **Royal Hotel**: 1259 Sandgate Rd, Nundah QLD 4012
-- Saturday morning 9am until 2pm - **West End Park Cafe**: 305 Montague Rd, West End QLD 4101
-- Sunday lunchtime 11am to 2pm - **The Coffee Club Café** Oaks Brisbane on Charlotte Suites: 128 Charlotte St, Brisbane City QLD 4000
+| Day       | Time          | Venue                  | Location                                           |
+|-----------|---------------|------------------------|---------------------------------------------------|
+| Wednesday | 12:00-2:30 PM | **June's Cafe**       | 17 Lytton Rd, East Brisbane QLD 4169              |
+| Thursday  | 6:00-8:00 PM  | **Royal Hotel**       | 1259 Sandgate Rd, Nundah QLD 4012                 |
+| Saturday  | 9:00-2:00 PM  | **West End Park Cafe**| 305 Montague Rd, West End QLD 4101                |
+| Sunday    | 11:00-2:00 PM | **The Coffee Club**   | 128 Charlotte St, Brisbane City QLD 4000          |
 
-## Our motto? Fun, friendly and free
+## 🎯 Our Motto
 
-Would you like to join our progressive social chess club right here on GitHub ? Are you interested in
-helping with our projects, repositories and websites ? Do you have experience with Discord Server
-moderation or admin ? All contributors will be invited to join this GitHub Organization and every contributor
-will be given credit for their contributions in our documentation.
+> **Fun, Friendly, and Free**
 
-### Official FIDE Masters can join us here on GitHub !!
+## 🤝 Join Our Community
 
-Are you a [Master level chess player](https://en.wikipedia.org/wiki/Chess_rating_system)
-with an official FIDE profile and rating ? We are looking for Master players that are both
-on GitHub and also have profiles on either chess dot com or lichess or both. To be eligible
-to join the Brisbane Social Chess GitHub organization you will need to show proof by linking
-your GitHub profile to your chess profiles. For example on GitHub you can add the links to
-chess dot com and lichess, and on the chess sites you can add your GitHub profile link.
+We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
+- Contributing to our projects and repositories
+- Helping with website development
+- Managing our Discord server
+- Playing chess with fellow enthusiasts
+
+## 👑 FIDE Masters Welcome
+
+We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles. Eligible titles include:
 
 - Super Grandmasters
 - Grandmasters (GM)
@@ -35,25 +37,25 @@ chess dot com and lichess, and on the chess sites you can add your GitHub profil
 - FIDE Masters (FM)
 - Candidate Masters (CM)
 
-Once you meet these criteria you can open an issue and ask to join. Thanks !!
+**To Join**: Please verify your credentials by linking your GitHub profile to your chess.com and/or lichess profiles. Open an issue to request membership once completed.
 
-## Management Committee
+## 👥 Management Committee
 
-- Jimmy - President
-- [Matt McLean](https://github.com/EmikoAlice497) - Treasurer
-- Steve - Secretary
-- [garveybiz](https://github.com/garveybiz) - Auditor
-- Ben - General member
-- Adam - General member
-- [John Bampton](https://github.com/jbampton) - General member
+| Role            | Name                                              |
+|-----------------|--------------------------------------------------|
+| President       | Jimmy                                            |
+| Treasurer       | [Matt McLean](https://github.com/EmikoAlice497) |
+| Secretary       | Steve                                            |
+| Auditor         | [garveybiz](https://github.com/garveybiz)       |
+| General Members | Ben, Adam, [John Bampton](https://github.com/jbampton) |
 
-## GitHub Maintainers
+## 🛠️ GitHub Team
 
+### Maintainers
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
-## GitHub Contributors
-
+### Contributors
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
@@ -65,17 +67,14 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [Víctor Araica](https://github.com/VictorAraica)
 - [Elisassa](https://github.com/Elisassa)
 
-## Discord Moderators
-
+## 🎮 Discord Moderators
 - [John Bampton](https://github.com/jbampton)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
 - [SM Riad](https://github.com/smriad)
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
-- [Anuradha Fernando](https://github.com/anufdo)
 
-## FIDE Masters
+---
 
-Join the Brisbane Social Chess GitHub Organization now !! Become our
-first GitHub Chess Master.
+**Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
