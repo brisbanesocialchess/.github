@@ -62,6 +62,7 @@ Once you meet these criteria you can open an issue and ask to join. Thanks !!
 - [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
 - [Taylor Dean](https://github.com/TylrDn)
 - [Víctor Araica](https://github.com/VictorAraica)
+- [Elisassa](https://github.com/Elisassa)
 
 ## Discord Moderators
 
