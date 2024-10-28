@@ -15,9 +15,10 @@ We are playing real in person over the board chess four times a week at four dif
 
 ## Our motto? Fun, friendly and free
 
-Would you like to join our progressive social chess club right here on GitHub ? Are you interested in helping with our
-projects, repositories and websites ? All contributors will be invited to this GitHub Organization and every contributor will be
-given credit for their contributions in our documentation.
+Would you like to join our progressive social chess club right here on GitHub ? Are you interested in
+helping with our projects, repositories and websites ? Do you have experience with Discord Server
+moderation or admin ? All contributors will be invited to join this GitHub Organization and every contributor
+will be given credit for their contributions in our documentation.
 
 ### Official FIDE Masters can join us here on GitHub !!
 
