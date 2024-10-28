@@ -74,6 +74,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [SM Riad](https://github.com/smriad)
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
+- [Anuradha Fernando](https://github.com/anufdo)
 
 ---
 
