@@ -8,12 +8,12 @@ Welcome to Brisbane's premier social chess community! We are a registered commun
 
 Join us at any of our four weekly locations across Brisbane:
 
-| Day       | Time          | Venue                  | Location                                           |
-|-----------|---------------|------------------------|---------------------------------------------------|
-| Wednesday | 12:00-2:30 PM | **June's Cafe**       | 17 Lytton Rd, East Brisbane QLD 4169              |
-| Thursday  | 6:00-8:00 PM  | **Royal Hotel**       | 1259 Sandgate Rd, Nundah QLD 4012                 |
-| Saturday  | 9:00-2:00 PM  | **West End Park Cafe**| 305 Montague Rd, West End QLD 4101                |
-| Sunday    | 11:00-2:00 PM | **The Coffee Club**   | 128 Charlotte St, Brisbane City QLD 4000          |
+| Day       | Time          | Venue                  | Location                                         |
+|-----------|---------------|------------------------|--------------------------------------------------|
+| Wednesday | 12:00-2:30 PM | **June's Cafe**        | 17 Lytton Rd, East Brisbane QLD 4169             |
+| Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012                |
+| Saturday  | 9:00-2:00 PM  | **West End Park Cafe** | 305 Montague Rd, West End QLD 4101               |
+| Sunday    | 11:00-2:00 PM | **The Coffee Club**    | 128 Charlotte St, Brisbane City QLD 4000         |
 
 ## 🎯 Our Motto
 
@@ -41,12 +41,12 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Management Committee
 
-| Role            | Name                                              |
+| Role            | Name                                             |
 |-----------------|--------------------------------------------------|
 | President       | Jimmy                                            |
-| Treasurer       | [Matt McLean](https://github.com/EmikoAlice497) |
+| Treasurer       | [Matt McLean](https://github.com/EmikoAlice497)  |
 | Secretary       | Steve                                            |
-| Auditor         | [garveybiz](https://github.com/garveybiz)       |
+| Auditor         | [garveybiz](https://github.com/garveybiz)        |
 | General Members | Ben, Adam, [John Bampton](https://github.com/jbampton) |
 
 ## 🛠️ GitHub Team
@@ -66,6 +66,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Taylor Dean](https://github.com/TylrDn)
 - [Víctor Araica](https://github.com/VictorAraica)
 - [Elisassa](https://github.com/Elisassa)
+- [Shovit](https://github.com/Virtual4087)
 
 ## 🎮 Discord Moderators
 - [John Bampton](https://github.com/jbampton)
