@@ -1,0 +1,12 @@
+# Labels for files matching certain patterns
+docs:
+  - 'docs/**'
+  - '**/*.md'
+
+feature:
+  - 'src/**'
+  - '**/*.js'
+
+bug:
+  - '**/*.test.js'
+  - '**/*.spec.js'
