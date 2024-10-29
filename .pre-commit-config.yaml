@@ -2,5 +2,10 @@ repos:
   - repo: https://github.com/codespell-project/codespell
     rev: v2.2.4
     hooks:
-    - id: codespell
-      args: ['--skip=git']
+      - id: codespell
+        args: ['--skip=git']
+
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.42.0
+    hooks:
+      - id: markdownlint
