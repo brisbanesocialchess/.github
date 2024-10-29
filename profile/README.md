@@ -27,6 +27,22 @@ We're always looking for enthusiastic individuals to join our community! Whether
 - Managing our Discord server
 - Playing chess with fellow enthusiasts
 
+
+## 🎉 Join Our Discord Community
+
+Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
+
+<p align="center">
+    <a href="https://discord.com/invite/JWBKhQmzvD" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
+    </a>
+</p>
+
+Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
+
+
+
+
 ## 👑 FIDE Masters Welcome
 
 We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles. Eligible titles include:
