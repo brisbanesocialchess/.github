@@ -27,7 +27,6 @@ We're always looking for enthusiastic individuals to join our community! Whether
 - Managing our Discord server
 - Playing chess with fellow enthusiasts
 
-
 ## 🎉 Join Our Discord Community
 
 Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
