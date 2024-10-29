@@ -64,10 +64,12 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 🛠️ GitHub Team
 
 ### Maintainers
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
 ### Contributors
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
@@ -80,8 +82,10 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Elisassa](https://github.com/Elisassa)
 - [Shovit](https://github.com/Virtual4087)
 - [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
+- [K.Boopathi](https://github.com/programmerraja)
 
 ## 🎮 Discord Moderators
+
 - [John Bampton](https://github.com/jbampton)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
