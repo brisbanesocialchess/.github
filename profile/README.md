@@ -71,7 +71,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
-- [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
+- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
 - [Jack Wu](https://github.com/jackneer)
 - [SM Riad](https://github.com/smriad)
 - [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
