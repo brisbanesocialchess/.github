@@ -1,0 +1,30 @@
+name: Proselint Linting
+
+on:
+  push:
+    branches:
+      - main # Adjust if you have a different default branch
+  pull_request:
+    branches:
+      - main # Run on pull requests to main
+
+jobs:
+  proselint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8' # You can specify another version if needed
+
+      - name: Install Proselint
+        run: |
+          pip install proselint
+
+      - name: Run Proselint
+        run: |
+          proselint **/*.md # Adjust the file pattern if needed
