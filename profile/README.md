@@ -40,9 +40,6 @@ Connect with other chess enthusiasts, join discussions, and participate in exclu
 
 Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
 
-
-
-
 ## 👑 FIDE Masters Welcome
 
 We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles. Eligible titles include:
