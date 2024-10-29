@@ -1,14 +1,17 @@
-name: Welcome New Contributors
+name: First Interaction
 
-on: [pull_request, issues]
+on:
+  pull_request:
+    types: [opened]
 
 jobs:
   welcome:
     runs-on: ubuntu-latest
     steps:
-      - name: Greet new contributors
+      - name: Welcome Message
         uses: actions/first-interaction@v1
         with:
-          message: |
-            🎉 Welcome to our project, @{{ github.actor }}! Thank you for contributing!
+          pr-message: |
+            🎉 Welcome to our project, @{{ github.actor }}! Thank you for contributing! 
             We’re glad to have you here. If you have any questions, feel free to ask!
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
