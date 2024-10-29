@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/codespell-project/codespell.git
+    rev: v2.3.2  # You can specify the latest version if needed
+    hooks:
+      - id: codespell
+        args: ['--skip=git', '--ignore-words-list=the', '--ignore-words-list=and']  # Customize ignored words as necessary
