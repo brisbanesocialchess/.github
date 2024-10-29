@@ -1,12 +1,18 @@
-# Labels for files matching certain patterns
-docs:
-  - 'docs/**'
-  - '**/*.md'
+---
+documentation:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - '**/*.md'
 
-feature:
-  - 'src/**'
-  - '**/*.js'
+root:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - '*'
 
-bug:
-  - '**/*.test.js'
-  - '**/*.spec.js'
+github-actions:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - .github/**/*
