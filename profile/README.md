@@ -80,3 +80,11 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ---
 
 **Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
+
+You can set your membership in the Brisbane Social Chess GitHub Organization to public on the people page when logged in:
+
+https://github.com/orgs/brisbanesocialchess/people
+
+Please show your support for your new team :)
+
+If you are a private member, the public including everyone else that is not in the team won't see that you are part of Brisbane Social Chess.
