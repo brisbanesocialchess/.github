@@ -1,23 +1,61 @@
-# Node.js
+# Dependency directories
 node_modules/
-npm-debug.log
-yarn-error.log
+bower_components/
+
+# Build directories
+dist/
+build/
 
 # Logs
 logs/
 *.log
-yarn-debug.log*
-yarn-error.log*
 
-# Build output
-dist/
-build/
+# Operating System files
+.DS_Store        # macOS
+Thumbs.db       # Windows
 
-# Environment variables
-.env
-.env.local
-
-# IDE files
-.idea/
+# IDE/Editor settings
 .vscode/
-.DS_Store
+.idea/
+*.iml
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# C/C++ specific
+*.o
+*.exe
+*.out
+*.a
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment variable files
+.env
+
+# Coverage reports
+coverage/
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other common exclusions
+*.bak
+*.swp
+*~
