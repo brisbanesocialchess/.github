@@ -1,8 +1,6 @@
 name: Welcome New Contributors
 
-on:
-  issues:
-    types: [opened]
+on: [pull_request, issues]
 
 jobs:
   welcome:
