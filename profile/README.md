@@ -84,7 +84,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 🎮 Discord Moderators
 - [John Bampton](https://github.com/jbampton)
 - [Max Base](https://github.com/BaseMax)
-- [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
+- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
 - [SM Riad](https://github.com/smriad)
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
