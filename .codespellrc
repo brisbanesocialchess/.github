@@ -1,4 +1,4 @@
-# .codespellrc
+[DEFAULT]
 # Ignore specific words
 skip = the, and
 
