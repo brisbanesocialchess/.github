@@ -79,6 +79,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Víctor Araica](https://github.com/VictorAraica)
 - [Elisassa](https://github.com/Elisassa)
 - [Shovit](https://github.com/Virtual4087)
+- [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
 
 ## 🎮 Discord Moderators
 - [John Bampton](https://github.com/jbampton)
