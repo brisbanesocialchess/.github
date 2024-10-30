@@ -64,10 +64,12 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 🛠️ GitHub Team
 
 ### Maintainers
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
 ### Contributors
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
@@ -80,8 +82,11 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Elisassa](https://github.com/Elisassa)
 - [Shovit](https://github.com/Virtual4087)
 - [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
+- [K.Boopathi](https://github.com/programmerraja)
+- [Emeka](https://github.com/janus)
 
 ## 🎮 Discord Moderators
+
 - [John Bampton](https://github.com/jbampton)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
@@ -94,10 +99,24 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 **Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
 
-You can set your membership in the Brisbane Social Chess GitHub Organization to public on the people page when logged in:
+---
 
-https://github.com/orgs/brisbanesocialchess/people
+## 📋 Tasks to do after joining the Brisbane Social Chess GitHub Organization
 
-Please show your support for your new team :)
+Please `Star` some of our repositories ⭐ 💫 🌠 🌟 
 
-If you are a private member, the public including everyone else that is not in the team won't see that you are part of Brisbane Social Chess.
+You can set your membership in the Brisbane Social Chess GitHub Organization to `Public` on the
+[People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
+
+Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
+
+If you are a `private` organization member, the public including everyone else that is not in
+the team won't see that you are part of Brisbane Social Chess.
+
+After joining by default you are listed as a private member. You can then check your GitHub
+profile or the Brisbane Social Chess organization profile in a private tab or incognito
+window and you will see that your organization is not listed on your profile and
+that your avatar does not show on the Brisbane Social Chess organization homepage or
+people page.
+
+Your choice. Thanks once again !! ❤️
