@@ -83,6 +83,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Shovit](https://github.com/Virtual4087)
 - [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
 - [K.Boopathi](https://github.com/programmerraja)
+- [Emeka](https://github.com/janus)
 
 ## 🎮 Discord Moderators
 
