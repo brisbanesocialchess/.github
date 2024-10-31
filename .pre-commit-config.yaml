@@ -9,3 +9,4 @@ repos:
     rev: v0.42.0
     hooks:
       - id: markdownlint
+        args: [--config=.github/linters/.markdown-lint.yml]
