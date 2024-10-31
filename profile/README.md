@@ -41,7 +41,7 @@ Connect with other chess enthusiasts, join discussions, and participate in exclu
     </a>
 </p>
 
-Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
+Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players.
 
 ## 👑 FIDE Masters Welcome
 
