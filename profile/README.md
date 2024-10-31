@@ -22,10 +22,23 @@ Join us at any of our four weekly locations across Brisbane:
 ## 🤝 Join Our Community
 
 We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
+
 - Contributing to our projects and repositories
 - Helping with website development
 - Managing our Discord server
 - Playing chess with fellow enthusiasts
+
+## 🎉 Join Our Discord Community
+
+Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
+
+<p align="center">
+    <a href="https://discord.com/invite/JWBKhQmzvD" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
+    </a>
+</p>
+
+Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
 
 ## 👑 FIDE Masters Welcome
 
@@ -52,14 +65,16 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 🛠️ GitHub Team
 
 ### Maintainers
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
 ### Contributors
+
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
-- [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
+- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
 - [Jack Wu](https://github.com/jackneer)
 - [SM Riad](https://github.com/smriad)
 - [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
@@ -67,11 +82,15 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Víctor Araica](https://github.com/VictorAraica)
 - [Elisassa](https://github.com/Elisassa)
 - [Shovit](https://github.com/Virtual4087)
+- [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
+- [K.Boopathi](https://github.com/programmerraja)
+- [Emeka](https://github.com/janus)
 
 ## 🎮 Discord Moderators
+
 - [John Bampton](https://github.com/jbampton)
 - [Max Base](https://github.com/BaseMax)
-- [Mohammad LotfiAkbarabadi](https://github.com/pedramcvx1)
+- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
 - [SM Riad](https://github.com/smriad)
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
@@ -81,10 +100,24 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 **Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
 
-You can set your membership in the Brisbane Social Chess GitHub Organization to public on the people page when logged in:
+---
 
-https://github.com/orgs/brisbanesocialchess/people
+## 📋 Tasks to do after joining the Brisbane Social Chess GitHub Organization
 
-Please show your support for your new team :)
+Please `Star` some of our repositories ⭐ 💫 🌠 🌟
 
-If you are a private member, the public including everyone else that is not in the team won't see that you are part of Brisbane Social Chess.
+You can set your membership in the Brisbane Social Chess GitHub Organization to `Public` on the
+[People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
+
+Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
+
+If you are a `private` organization member, the public including everyone else that is not in
+the team won't see that you are part of Brisbane Social Chess.
+
+After joining by default you are listed as a private member. You can then check your GitHub
+profile or the Brisbane Social Chess organization profile in a private tab or incognito
+window and you will see that your organization is not listed on your profile and
+that your avatar does not show on the Brisbane Social Chess organization homepage or
+people page.
+
+Your choice. Thanks once again !! ❤️
