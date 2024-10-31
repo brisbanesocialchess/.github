@@ -22,7 +22,9 @@ Join us at any of our four weekly locations across Brisbane:
 
 ## 🤝 Join Our Community
 
-We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
+We're always looking for enthusiastic individuals to join our community.
+
+Whether you're interested in:
 
 - Contributing to our projects and repositories
 - Helping with website development
