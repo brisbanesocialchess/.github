@@ -123,4 +123,4 @@ window and you will see that your organization is not listed on your profile and
 that your avatar does not show on the Brisbane Social Chess organization homepage or
 people page.
 
-Your choice. Thanks once again! ❤️
+Your choice. Thanks once again ❤️
