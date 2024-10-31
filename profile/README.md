@@ -2,7 +2,7 @@
 
 # Brisbane Social Chess Inc.
 
-Welcome to Brisbane's premier social chess community!
+Welcome to Brisbane's premier social chess community.
 We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
 ## 🗓️ Weekly Meetups
