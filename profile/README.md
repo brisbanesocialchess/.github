@@ -22,6 +22,7 @@ Join us at any of our four weekly locations across Brisbane:
 ## 🤝 Join Our Community
 
 We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
+
 - Contributing to our projects and repositories
 - Helping with website development
 - Managing our Discord server
@@ -103,7 +104,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 📋 Tasks to do after joining the Brisbane Social Chess GitHub Organization
 
-Please `Star` some of our repositories ⭐ 💫 🌠 🌟 
+Please `Star` some of our repositories ⭐ 💫 🌠 🌟
 
 You can set your membership in the Brisbane Social Chess GitHub Organization to `Public` on the
 [People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
