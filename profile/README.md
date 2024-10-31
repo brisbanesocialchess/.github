@@ -33,11 +33,11 @@ Whether you're interested in:
 
 ## 🎉 Join Our Discord Community
 
-Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
+Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server.
 
-<p align="center">
-    <a href="https://discord.com/invite/JWBKhQmzvD" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
+<p align=center>
+    <a href="https://discord.com/invite/JWBKhQmzvD" style=text-decoration:none>
+        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt=Join Our Discord>
     </a>
 </p>
 
