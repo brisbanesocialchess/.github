@@ -2,7 +2,8 @@
 
 # Brisbane Social Chess Inc.
 
-Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
+Welcome to Brisbane's premier social chess community.
+We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
 ## 🗓️ Weekly Meetups
 
@@ -10,9 +11,9 @@ Join us at any of our four weekly locations across Brisbane:
 
 | Day       | Time          | Venue                  | Location                                         |
 |-----------|---------------|------------------------|--------------------------------------------------|
-| Wednesday | 12:00-2:30 PM | **June's Cafe**        | 17 Lytton Rd, East Brisbane QLD 4169             |
+| Wednesday | 12:00-2:30 PM | **June's Café**        | 17 Lytton Rd, East Brisbane QLD 4169             |
 | Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012                |
-| Saturday  | 9:00-2:00 PM  | **West End Park Cafe** | 305 Montague Rd, West End QLD 4101               |
+| Saturday  | 9:00-2:00 PM  | **West End Park Café** | 305 Montague Rd, West End QLD 4101               |
 | Sunday    | 11:00-2:00 PM | **The Coffee Club**    | 128 Charlotte St, Brisbane City QLD 4000         |
 
 ## 🎯 Our Motto
@@ -21,7 +22,9 @@ Join us at any of our four weekly locations across Brisbane:
 
 ## 🤝 Join Our Community
 
-We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
+We're always looking for enthusiastic individuals to join our community.
+
+Whether you're interested in:
 
 - Contributing to our projects and repositories
 - Helping with website development
@@ -30,15 +33,15 @@ We're always looking for enthusiastic individuals to join our community! Whether
 
 ## 🎉 Join Our Discord Community
 
-Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
+Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server.
 
-<p align="center">
-    <a href="https://discord.com/invite/JWBKhQmzvD" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
+<p align=center>
+    <a href="https://discord.com/invite/JWBKhQmzvD" style=text-decoration:none>
+        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt=Join Our Discord>
     </a>
 </p>
 
-Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
+Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players.
 
 ## 👑 FIDE Masters Welcome
 
@@ -98,7 +101,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ---
 
-**Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
+**Be Our First GitHub Chess Master.** Join the Brisbane Social Chess GitHub Organization today.
 
 ---
 
@@ -111,7 +114,7 @@ You can set your membership in the Brisbane Social Chess GitHub Organization to 
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
-If you are a `private` organization member, the public including everyone else that is not in
+If you are a `private` organization member, the public including everyone else who is not in
 the team won't see that you are part of Brisbane Social Chess.
 
 After joining by default you are listed as a private member. You can then check your GitHub
@@ -120,4 +123,4 @@ window and you will see that your organization is not listed on your profile and
 that your avatar does not show on the Brisbane Social Chess organization homepage or
 people page.
 
-Your choice. Thanks once again !! ❤️
+Your choice. Thanks once again ❤️
