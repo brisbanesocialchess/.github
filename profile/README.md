@@ -54,12 +54,12 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Management Committee
 
-| Role            | Name                                             |
-|-----------------|--------------------------------------------------|
-| President       | Jimmy                                            |
-| Treasurer       | [Matt McLean](https://github.com/EmikoAlice497)  |
-| Secretary       | Steve                                            |
-| Auditor         | [garveybiz](https://github.com/garveybiz)        |
+| Role            | Name                                                   |
+|-----------------|--------------------------------------------------------|
+| President       | Jimmy                                                  |
+| Treasurer       | [Matt McLean](https://github.com/LuckyNotGood)         |
+| Secretary       | Steve                                                  |
+| Auditor         | [garveybiz](https://github.com/garveybiz)              |
 | General Members | Ben, Adam, [John Bampton](https://github.com/jbampton) |
 
 ## 🛠️ GitHub Team
