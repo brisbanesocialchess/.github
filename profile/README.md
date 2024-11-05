@@ -85,6 +85,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
 - [K.Boopathi](https://github.com/programmerraja)
 - [Emeka](https://github.com/janus)
+- [Amir Tallap](https://github.com/AmirTallap)
 
 ## 🎮 Discord Moderators
 
