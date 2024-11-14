@@ -8,12 +8,13 @@ Welcome to Brisbane's premier social chess community! We are a registered commun
 
 Join us at any of our four weekly locations across Brisbane:
 
-| Day       | Time          | Venue                  | Location                                         |
-|-----------|---------------|------------------------|--------------------------------------------------|
-| Wednesday | 12:00-2:30 PM | **June's Cafe**        | 17 Lytton Rd, East Brisbane QLD 4169             |
-| Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012                |
-| Saturday  | 9:00-2:00 PM  | **West End Park Cafe** | 305 Montague Rd, West End QLD 4101               |
-| Sunday    | 11:00-2:00 PM | **The Coffee Club**    | 128 Charlotte St, Brisbane City QLD 4000         |
+| Day       | Time          | Venue                       | Location                                         |
+|-----------|---------------|-----------------------------|--------------------------------------------------|
+| Monday    | 5:00-7:30 PM  | **Sitar Indian Restaurant** | 331 Sandgate Rd, Albion QLD 4010                 |
+| Wednesday | 12:00-2:30 PM | **June's Cafe**             | 17 Lytton Rd, East Brisbane QLD 4169             |
+| Thursday  | 6:00-8:00 PM  | **Royal Hotel**             | 1259 Sandgate Rd, Nundah QLD 4012                |
+| Saturday  | 9:00-2:00 PM  | **West End Park Cafe**      | 305 Montague Rd, West End QLD 4101               |
+| Sunday    | 11:00-2:00 PM | **The Garden Room**         | 1 Parkland Blvd, Brisbane City QLD 4000          |
 
 ## 🎯 Our Motto
 
