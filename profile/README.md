@@ -104,6 +104,28 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ---
 
+## 🎲 Games that we play
+
+- [Chess](https://en.wikipedia.org/wiki/Chess): https://lichess.org/
+  - Lots of standard two player chess sets
+- [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): https://www.chess.com/variants/4-player-chess
+  - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which comes in a green cylindrical zip up bag
+- [Quaternity](https://www.quaternity.com/): https://play.quaternity.com/
+  - https://www.quaternity-chess.com/
+  - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
+
+## 🕹️ New games purchased but not yet delivered
+
+- [Chessplus](https://www.chessplus.com/): [Everyday Edition](https://www.chessplus.com/products/chessplus-everyday-edition)
+  - A fast paced, edgy version of chess with exponentially more moves & all new strategies
+- [Harmegedo 6 Player Chess Set - The Board of Lords](https://harmegedo.com/)
+
+## ♣️ Games we might play in future
+
+- [Go](https://en.wikipedia.org/wiki/Go_(game)) - at least one small Go set
+- [Shogi (Japanese chess)](https://en.wikipedia.org/wiki/Shogi) - at least two Shogi sets
+- [Xiangqi (Chinese chess)](https://en.wikipedia.org/wiki/Xiangqi) - at least one Xiangqi set
+
 ## 📋 Tasks to do after joining the Brisbane Social Chess GitHub Organization
 
 Please `Star` some of our repositories ⭐ 💫 🌠 🌟
