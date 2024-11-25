@@ -7,5 +7,8 @@ MD026: false
 # MD033/no-inline-html
 MD033: false
 
+# MD034/no-bare-urls
+MD034: false
+
 #MD041/first-line-heading/first-line-h1
 MD041: false
