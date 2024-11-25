@@ -4,6 +4,9 @@ on:
   pull_request:
     types: [opened]
 
+permissions:
+  contents: read
+
 jobs:
   welcome:
     runs-on: ubuntu-latest
