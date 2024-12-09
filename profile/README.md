@@ -115,7 +115,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
   - https://www.quaternity-chess.com/
   - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
 
-## 🕹️ New games purchased but not yet delivered
+## 🕹️ New games recently delivered
 
 - [Chessplus](https://www.chessplus.com/): [Everyday Edition](https://www.chessplus.com/products/chessplus-everyday-edition)
   - A fast paced, edgy version of chess with exponentially more moves & all new strategies
