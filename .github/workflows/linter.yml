@@ -1,4 +1,4 @@
-name: Lint
+name: Super-Linter
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
         with:
           fetch-depth: 0 # super-linter needs the full git history for file changes across commits
 
-      - name: Super-linter
+      - name: Super-Linter
         uses: super-linter/super-linter@v7.2.0 # x-release-please-version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # To report GitHub Actions status checks
