@@ -110,7 +110,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Chess](https://en.wikipedia.org/wiki/Chess): https://lichess.org/
   - Lots of standard two player chess sets
 - [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): https://www.chess.com/variants/4-player-chess
-  - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which is packaged in a green cylindrical Zipper bag
+  - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which is packaged in a green cylindrical zipper bag
 - [Quaternity](https://www.quaternity.com/): https://play.quaternity.com/
   - https://www.quaternity-chess.com/
   - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
