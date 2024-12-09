@@ -26,7 +26,7 @@ Join us at any of our four weekly locations across Brisbane:
 We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
 
 - Contributing to our projects and repositories
-- Helping with website development
+- Helping with site development
 - Managing our Discord server
 - Playing chess with fellow enthusiasts
 
@@ -110,7 +110,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Chess](https://en.wikipedia.org/wiki/Chess): https://lichess.org/
   - Lots of standard two player chess sets
 - [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): https://www.chess.com/variants/4-player-chess
-  - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which comes in a green cylindrical zip up bag
+  - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which is packaged in a green cylindrical zipper bag
 - [Quaternity](https://www.quaternity.com/): https://play.quaternity.com/
   - https://www.quaternity-chess.com/
   - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
