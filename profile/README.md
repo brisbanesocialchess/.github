@@ -99,6 +99,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
 - [Anuradha Fernando](https://github.com/anufdo)
+- [therealnugget](https://github.com/therealnugget)
 
 ---
 
