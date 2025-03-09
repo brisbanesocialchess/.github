@@ -71,25 +71,6 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
-### Contributors
-
-- [John Bampton](https://github.com/jbampton)
-- [garveybiz](https://github.com/garveybiz)
-- [Max Base](https://github.com/BaseMax)
-- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
-- [Jack Wu](https://github.com/jackneer)
-- [SM Riad](https://github.com/smriad)
-- [ANIRUDDHA ADAK](https://github.com/aniruddhaadak80)
-- [Taylor Dean](https://github.com/TylrDn)
-- [Víctor Araica](https://github.com/VictorAraica)
-- [Elisassa](https://github.com/Elisassa)
-- [Shovit](https://github.com/Virtual4087)
-- [Dhiraj Kumar](https://github.com/dhirajchaurasiya10)
-- [K.Boopathi](https://github.com/programmerraja)
-- [Emeka](https://github.com/janus)
-- [Amir Tallap](https://github.com/AmirTallap)
-- [eskimoandrei](https://github.com/eskimoandrei)
-
 ## 🎮 Discord Moderators
 
 - [John Bampton](https://github.com/jbampton)
