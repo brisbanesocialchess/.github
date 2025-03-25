@@ -95,6 +95,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): https://www.chess.com/variants/4-player-chess
   - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which is packaged in a green cylindrical zipper bag
 - [Harmegedo 6 Player Chess Set - The Board of Lords](https://harmegedo.com/)
+  - One Harmegedo chess set with 6 armies and 108 total soldiers. Each army starts with 9 pieces (including 2 queens) and 9 pawns for a total of 18 soldiers
 - [Quaternity](https://www.quaternity.com/): https://play.quaternity.com/
   - https://www.quaternity-chess.com/
   - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
