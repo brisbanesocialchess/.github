@@ -118,14 +118,3 @@ You can set your membership in the Brisbane Social Chess GitHub Organization to 
 [People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
-
-If you are a `private` organization member, the public including everyone else that is not in
-the team won't see that you are part of Brisbane Social Chess.
-
-After joining by default you are listed as a private member. You can then check your GitHub
-profile or the Brisbane Social Chess organization profile in a private tab or incognito
-window and you will see that your organization is not listed on your profile and
-that your avatar does not show on the Brisbane Social Chess organization homepage or
-people page.
-
-Your choice. Thanks once again! ❤️
