@@ -119,3 +119,7 @@ You can set your membership in the Brisbane Social Chess GitHub Organization to 
 [People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
+
+## Random Days Gone Bye
+
+![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-roma-street-1.png)
