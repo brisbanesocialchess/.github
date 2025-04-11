@@ -122,4 +122,4 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 ## Random Days Gone Bye
 
-![Harmegedo The Board of Lords at the Garden Room Cafe](images/harmegedo-roma-street-1.png)
+![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-roma-street-1.png)
