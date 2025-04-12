@@ -4,6 +4,12 @@ default_language_version:
   python: python3
 minimum_pre_commit_version: '3.2.0'
 repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.24.3
+    hooks:
+      - id: gitleaks
+        name: run gitleaks
+        description: gitleaks detects hardcoded secrets in the repo
   - repo: https://github.com/codespell-project/codespell
     rev: v2.4.1
     hooks:
