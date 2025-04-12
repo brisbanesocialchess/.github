@@ -1,12 +1,15 @@
 [DEFAULT]
 # Ignore specific words
-skip = the, and
+# skip = and, the
 
 # Specify the dictionary file (if any)
-dictionary = your_custom_dict.txt
+# dictionary = your_custom_dict.txt
 
 # Ignore specific file extensions
-ignore = *.md, *.txt
+# ignore = *.md, *.txt
 
 # Treat specific patterns as words (if needed)
 # treat = your_pattern
+
+ignore-words-list:
+  - .github/linters/codespell.txt
