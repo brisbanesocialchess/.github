@@ -12,6 +12,23 @@ repos:
       - id: check-hooks-apply
         name: run check hooks apply
         description: useful when testing new hooks to see if they apply to the repository
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-case-conflict
+      - id: check-illegal-windows-names
+      - id: check-merge-conflict
+      - id: check-vcs-permalinks
+      - id: check-yaml
+      - id: detect-aws-credentials
+        args: [--allow-missing-credentials]
+      - id: detect-private-key
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: forbid-submodules
+      - id: mixed-line-ending
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.24.3
     hooks:
