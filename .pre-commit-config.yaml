@@ -16,18 +16,30 @@ repos:
     rev: v5.0.0
     hooks:
       - id: check-case-conflict
+        name: run check for case conflicts
       - id: check-illegal-windows-names
+        name: run check for illegal windows names
       - id: check-merge-conflict
+        name: run check for merge conflicts
       - id: check-vcs-permalinks
+        name: run check for vcs permalinks
       - id: check-yaml
+        name: run check YAML
       - id: detect-aws-credentials
+        name: run check for aws credentials
         args: [--allow-missing-credentials]
       - id: detect-private-key
+        name: run check for private keys
       - id: end-of-file-fixer
+        name: run end of file fixer
       - id: fix-byte-order-marker
+        name: run fix byte order marker
       - id: forbid-submodules
+        name: run forbid submodules
       - id: mixed-line-ending
+        name: run check for mixed line endings
       - id: trailing-whitespace
+        name: run check for trailing whitespace
         args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.24.3
