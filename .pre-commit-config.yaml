@@ -4,6 +4,14 @@ default_language_version:
   python: python3
 minimum_pre_commit_version: '3.2.0'
 repos:
+  - repo: meta
+    hooks:
+      - id: identity
+        name: run identity
+        description: check to see if your identity is set
+      - id: check-hooks-apply
+        name: run check hooks apply
+        description: useful when testing new hooks to see if they apply to the repository
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.24.3
     hooks:
