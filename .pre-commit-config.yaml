@@ -19,6 +19,8 @@ repos:
         name: run check for case conflicts
       - id: check-illegal-windows-names
         name: run check for illegal windows names
+      - id: check-json
+        name: run check JSON
       - id: check-merge-conflict
         name: run check for merge conflicts
       - id: check-vcs-permalinks
