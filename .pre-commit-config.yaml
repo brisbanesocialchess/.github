@@ -88,3 +88,12 @@ repos:
         name: run oxipng
         description: multithreaded PNG optimizer written in Rust
         args: ['-o', '4', '--strip', 'safe', '--alpha']
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.37.0
+    hooks:
+      - id: yamllint
+        name: run yamllint
+        description: check YAML files with yamllint
+        args: [--strict, -c=.github/linters/.yaml-lint.yml]
+        types: [yaml]
+        files: \.ya?ml$
