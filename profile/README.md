@@ -120,6 +120,10 @@ You can set your membership in the Brisbane Social Chess GitHub Organization to 
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
-## Random Days Gone Bye
+## 🏨 Royal Hotel A Quick Game is a Good Game
+
+![Standard 4 Player Chess](images/four-player-royal-hotel.png)
+
+## 🏡 Garden Room Random Days Gone Bye
 
 ![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-roma-street-1.png)
