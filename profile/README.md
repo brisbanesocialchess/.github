@@ -10,7 +10,6 @@ Join us at any of our six weekly locations across Brisbane:
 
 | Day       | Time          | Venue                       | Location                                |
 | --------- | ------------- | --------------------------- | --------------------------------------- |
-| Monday    | 5:00-7:00 PM  | **Sitar Indian Restaurant** | 331 Sandgate Rd, Albion QLD 4010        |
 | Wednesday | 12:00-2:30 PM | **June's Café**             | 17 Lytton Rd, East Brisbane QLD 4169    |
 | Thursday  | 6:00-8:00 PM  | **Royal Hotel**             | 1259 Sandgate Rd, Nundah QLD 4012       |
 | Friday    | 11:00-1:00 PM | **Chocolate Moments**       | 60 Albert St, Brisbane City QLD 4000    |
