@@ -17,6 +17,10 @@ trim_trailing_whitespace = true
 # Insert final newline
 insert_final_newline = true
 
+[Makefile]
+# Makefiles
+indent_style = tab
+
 [*.md]
 # Markdown files
 trim_trailing_whitespace = false
