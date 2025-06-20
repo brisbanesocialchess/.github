@@ -13,7 +13,7 @@ Join us at any of our five weekly locations across Brisbane:
 | Monday    | 4:00-7:00 PM  | **Pig N Whistle KGS**  | King George Square, 100 Adelaide Street, Brisbane City QLD 4000 |
 | Wednesday | 12:00-2:30 PM | **June's Café**        | 17 Lytton Rd, East Brisbane QLD 4169                            |
 | Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012                               |
-| Friday    | 11:00-1:00 PM | **Chocolate Moments**  | 60 Albert St, Brisbane City QLD 4000                            |
+| Friday    | 12:00-2:00 PM | **Chocolate Moments**  | 60 Albert St, Brisbane City QLD 4000                            |
 | Saturday  | 10:30-2:00 PM | **West End Park Café** | 305 Montague Rd, West End QLD 4101                              |
 | Sunday    | 11:00-2:00 PM | **The Garden Room**    | 1 Parkland Blvd, Brisbane City QLD 4000                         |
 
