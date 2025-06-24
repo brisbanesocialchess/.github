@@ -81,6 +81,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Nicholas Meredith](https://github.com/udha)
 - [Anuradha Fernando](https://github.com/anufdo)
 - [therealnugget](https://github.com/therealnugget)
+- [Mahabub Islam Prio](https://github.com/prio101)
 
 ---
 
