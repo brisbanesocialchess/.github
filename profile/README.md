@@ -6,7 +6,7 @@ Welcome to Brisbane's premier social chess community. We are a registered commun
 
 ## 🗓️ Weekly Meetups
 
-Join us at any of our five weekly locations across Brisbane:
+Join us at any of our six weekly locations across Brisbane:
 
 | Day       | Time          | Venue                  | Location                                                        |
 | --------- | ------------- | ---------------------- | --------------------------------------------------------------- |
