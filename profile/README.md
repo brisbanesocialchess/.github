@@ -133,7 +133,7 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 ## 🏡 Garden Room — Random Days Gone Bye
 
-![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-the-board-of-lords-at-the garden-room.jpg)
+![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-the-board-of-lords-at-the-garden-room.jpg)
 
 ## 🧙‍♂️ Never Underestimate the Power of Jedi Master Big Bird
 
