@@ -15,15 +15,6 @@ repos:
       - id: check-hooks-apply
         name: run check hooks apply
         description: useful when testing new hooks to see if they apply to the repository
-  - repo: local
-    hooks:
-      - id: prettier
-        name: run prettier
-        description: format files with prettier
-        entry: prettier --write '**/*.md' '**/*.yaml' '**/*.yml'
-        files: \.(md|ya?ml)$
-        language: node
-        additional_dependencies: ['prettier@3.6.2']
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
@@ -94,13 +85,6 @@ repos:
         name: run markdownlint
         description: lint Markdown files with markdownlint
         args: [--config=.github/linters/.markdown-lint.yml]
-  - repo: https://github.com/shssoichiro/oxipng
-    rev: v9.1.5
-    hooks:
-      - id: oxipng
-        name: run oxipng
-        description: multithreaded PNG optimizer written in Rust
-        args: ['-o', '4', '--strip', 'safe', '--alpha']
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.37.0
     hooks:
