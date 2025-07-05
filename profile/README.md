@@ -1,4 +1,4 @@
-![Brisbane Social Chess](images/Brisbane Social Chess.jpg)
+![Brisbane Social Chess](images/brisbane-social-chess.jpg)
 
 # Brisbane Social Chess Inc.
 
@@ -129,13 +129,13 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 ## 🏨 Royal Hotel — A Quick Game is a Good Game
 
-![Standard 4 Player Chess](images/Standard 4 Player Chess.jpg)
+![Standard 4 Player Chess](images/standard-4-player-chess.jpg)
 
 ## 🏡 Garden Room — Random Days Gone Bye
 
-![Harmegedo The Board of Lords at the Garden Room](images/Harmegedo The Board of Lords at the Garden Room.jpg)
+![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-the-board-of-lords-at-the garden-room.jpg)
 
 ## 🧙‍♂️ Never Underestimate the Power of Jedi Master Big Bird
 
-| ![Never Underestimate the Power of Jedi Master Big Bird](images/Never Underestimate the Power of Jedi Master Big Bird1.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/Never Underestimate the Power of Jedi Master Big Bird2.jpg) |
+| ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-1.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-2.jpg) |
 |:--:|:--:|
