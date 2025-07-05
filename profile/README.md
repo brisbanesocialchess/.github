@@ -78,7 +78,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 🎮 Discord Moderators
 
-- [John Bampton](https://github.com/jbampton)
+- [John Bampton](https://github.com/jbampton): Admin
 - [garveybiz](https://github.com/garveybiz)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
@@ -86,7 +86,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
 - [Anuradha Fernando](https://github.com/anufdo)
-- [therealnugget](https://github.com/therealnugget)
+- [therealnugget](https://github.com/therealnugget): Team Leader
 - [Mahabub Islam Prio](https://github.com/prio101)
 
 ---
