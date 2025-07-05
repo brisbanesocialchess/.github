@@ -71,6 +71,11 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [John Bampton](https://github.com/jbampton)
 - [garveybiz](https://github.com/garveybiz)
 
+### Developers
+
+- [John Bampton](https://github.com/jbampton): Manager Operations and Relations
+- [Max Base](https://github.com/BaseMax): Programming Team Leader
+
 ## 🎮 Discord Moderators
 
 - [John Bampton](https://github.com/jbampton)
