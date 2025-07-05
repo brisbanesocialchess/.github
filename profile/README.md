@@ -137,6 +137,6 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 ## 🧙‍♂️ Never Underestimate the Power of Jedi Master Big Bird
 
-| ![Chess Image](images/chess2.jpg) | ![Chess Image](images/chess3.jpg) |
+| ![Never Underestimate the Power of Jedi Master Big Bird](images/chess2.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/chess3.jpg) |
 |:--:|:--:|
 | Chess 1 | Chess 2 |
