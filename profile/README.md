@@ -30,6 +30,8 @@ We're always looking for enthusiastic individuals to join our community! Whether
 - Managing our Discord server
 - Playing chess with fellow enthusiasts
 
+After your pull request has been merged you will be invited to join the Brisbane Social Chess GitHub Organization.
+
 ## 🎉 Join Our Discord Community
 
 Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
@@ -74,7 +76,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ### 💾 Developers
 
 - [John Bampton](https://github.com/jbampton): Manager Operations and Relations
-- [Max Base](https://github.com/BaseMax): Programming Team Leader
+- [Max Base](https://github.com/BaseMax): Lead Developer
 
 ## 🎮 Discord Moderators
 
@@ -86,7 +88,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
 - [Anuradha Fernando](https://github.com/anufdo)
-- [therealnugget](https://github.com/therealnugget): Team Leader
+- [therealnugget](https://github.com/therealnugget): Lead Moderator
 - [Mahabub Islam Prio](https://github.com/prio101)
 
 ---
