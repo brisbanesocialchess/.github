@@ -75,7 +75,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
   - Ben M: How does the horsey move again? 🤔
   - Jimmy Joe
   - [John Bampton](https://github.com/jbampton): GitHub is more about collaboration and community than code. Let me know about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants).
-  - [Rob Garvey](https://github.com/garveybiz): Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organise future events.
+  - [Rob Garvey](https://github.com/garveybiz): Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events.
   - Steve: Official pawn wrangler.
   - the Prof
 - Assistant organizer
