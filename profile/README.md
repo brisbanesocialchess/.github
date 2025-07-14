@@ -58,20 +58,29 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Management Committee
 
-| Role            | Name                                                   |
-| --------------- | ------------------------------------------------------ |
-| President       | Jimmy                                                  |
-| Treasurer       | [Matt McLean](https://github.com/LuckyNotGood)         |
-| Secretary       | Steve                                                  |
-| Auditor         | [garveybiz](https://github.com/garveybiz)              |
-| General Members | Ben, Adam, [John Bampton](https://github.com/jbampton) |
+| Role            | Name                                                               |
+| --------------- | ------------------------------------------------------------------ |
+| President       | Jimmy Joe                                                          |
+| Treasurer       | [Matt McLean](https://github.com/LuckyNotGood)                     |
+| Secretary       | Steve                                                              |
+| Auditor         | [Rob Garvey](https://github.com/garveybiz)                         |
+| General Members | Adam Lomsargis, Ben M, [John Bampton](https://github.com/jbampton) |
+
+## Organizers
+
+| Role                | Name                                                                        |
+| ------------------- | --------------------------------------------------------------------------- |
+| Organizer           | [Matt McLean](https://github.com/LuckyNotGood)                              |
+| Co-organizers       | Adam Lomsargis, Ben M, Jimmy Joe, John Bampton, Rob Garvey, Steve, the Prof |
+| Assistant organizer | Roger Clarke                                                                |
+| Event organizers    | Christoph Dierkes, JoeT, Marty Benjamin, Peiqi Sun, Stuart                  |
 
 ## 🛠️ GitHub Team
 
 ### 👨‍🔧 Maintainers
 
 - [John Bampton](https://github.com/jbampton)
-- [garveybiz](https://github.com/garveybiz)
+- [Rob Garvey](https://github.com/garveybiz)
 
 ### 💾 Developers
 
@@ -85,11 +94,11 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [therealnugget](https://github.com/therealnugget): Lead Moderator
 - [Anuradha Fernando](https://github.com/anufdo)
 - [Ayush Rana](https://github.com/ayushrana182)
-- [garveybiz](https://github.com/garveybiz)
 - [Mahabub Islam Prio](https://github.com/prio101)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
 - [Nicholas Meredith](https://github.com/udha)
+- [Rob Garvey](https://github.com/garveybiz)
 - [SM Riad](https://github.com/smriad)
 
 ---
