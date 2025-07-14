@@ -141,4 +141,4 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 ## 🧙‍♂️ Never Underestimate the Power of Jedi Master Big Bird
 
 | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-1.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-2.jpg) |
-|:--:|:--:|
+| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
