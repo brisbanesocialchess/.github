@@ -77,19 +77,20 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 - [John Bampton](https://github.com/jbampton): Manager Operations and Relations
 - [Max Base](https://github.com/BaseMax): Lead Developer
+- [Anuradha Fernando](https://github.com/anufdo)
 
 ## 🎮 Discord Moderators
 
 - [John Bampton](https://github.com/jbampton): Admin
+- [therealnugget](https://github.com/therealnugget): Lead Moderator
+- [Anuradha Fernando](https://github.com/anufdo)
+- [Ayush Rana](https://github.com/ayushrana182)
 - [garveybiz](https://github.com/garveybiz)
+- [Mahabub Islam Prio](https://github.com/prio101)
 - [Max Base](https://github.com/BaseMax)
 - [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
-- [SM Riad](https://github.com/smriad)
-- [Ayush Rana](https://github.com/ayushrana182)
 - [Nicholas Meredith](https://github.com/udha)
-- [Anuradha Fernando](https://github.com/anufdo)
-- [therealnugget](https://github.com/therealnugget): Lead Moderator
-- [Mahabub Islam Prio](https://github.com/prio101)
+- [SM Riad](https://github.com/smriad)
 
 ---
 
