@@ -1,6 +1,6 @@
 ![Brisbane Social Chess](images/brisbane-social-chess.jpg)
 
-# Brisbane Social Chess Inc.
+# ♟️ Brisbane Social Chess Inc.
 
 Welcome to Brisbane's premier social chess community. We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
@@ -66,7 +66,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Auditor         | [Rob Garvey](https://github.com/garveybiz)                         |
 | General Members | Adam Lomsargis, Ben M, [John Bampton](https://github.com/jbampton) |
 
-## Organizers
+## 🧑🏽‍🎨 Organizers
 
 | Role                | Name                                                                        |
 | ------------------- | --------------------------------------------------------------------------- |
