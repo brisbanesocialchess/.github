@@ -68,18 +68,30 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 🧑🏽‍🎨 Organizers
 
-| Role                | Name                                                                        |
-| ------------------- | --------------------------------------------------------------------------- |
-| Organizer           | [Matt McLean](https://github.com/LuckyNotGood)                              |
-| Co-organizers       | Adam Lomsargis, Ben M, Jimmy Joe, John Bampton, Rob Garvey, Steve, the Prof |
-| Assistant organizer | Roger Clarke                                                                |
-| Event organizers    | Christoph Dierkes, JoeT, Marty Benjamin, Peiqi Sun, Stuart                  |
+- Organizer
+  - [Matt McLean](https://github.com/LuckyNotGood): "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca)
+- Co-organizers:
+  - Adam Lomsargis: Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D
+  - Ben M: How does the horsey move again? 🤔
+  - Jimmy Joe
+  - [John Bampton](https://github.com/jbampton): GitHub is more about collaboration and community than code. Let me know about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants).
+  - [Rob Garvey](https://github.com/garveybiz): Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events.
+  - Steve: Official pawn wrangler.
+  - the Prof
+- Assistant organizer
+  - Roger Clarke
+- Event organizers
+  - Christoph Dierkes
+  - JoeT
+  - Marty Benjamin
+  - Peiqi Sun
+  - Stuart
 
 ## 🛠️ GitHub Team
 
 ### 👨‍🔧 Maintainers
 
-- [John Bampton](https://github.com/jbampton)
+- [John Bampton](https://github.com/jbampton): Lead Maintainer
 - [Rob Garvey](https://github.com/garveybiz)
 
 ### 💾 Developers
