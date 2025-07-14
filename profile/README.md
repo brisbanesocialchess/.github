@@ -154,4 +154,7 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 
 ## 4️⃣ Garden Room - Quaternity Zombie Road Block
-<table> <tr> <td><a href="images/b1.png" target="_blank"><img src="images/b1.png"/></a></td> <td><a href="images/b2.png" target="_blank"><img src="images/b2.png"/></a></td> </tr> <tr> <td><a href="images/b3.png" target="_blank"><img src="images/b3.png"/></a></td> <td><a href="images/b4.png" target="_blank"><img src="images/b4.png"/></a></td> </tr> </table>
+
+| [![b1](images/b1.png)](images/b1.png) | [![b2](images/b2.png)](images/b2.png) |
+| ------------------------------------ | ------------------------------------ |
+| [![b3](images/b3.png)](images/b3.png) | [![b4](images/b4.png)](images/b4.png) |
