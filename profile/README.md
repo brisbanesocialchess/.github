@@ -152,3 +152,6 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-1.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-2.jpg) |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+
+## 4️⃣ Garden Room - Quaternity Zombie Road Block
+<table> <tr> <td><a href="images/b1.png" target="_blank"><img src="images/b1.png"/></a></td> <td><a href="images/b2.png" target="_blank"><img src="images/b2.png"/></a></td> </tr> <tr> <td><a href="images/b3.png" target="_blank"><img src="images/b3.png"/></a></td> <td><a href="images/b4.png" target="_blank"><img src="images/b4.png"/></a></td> </tr> </table>
