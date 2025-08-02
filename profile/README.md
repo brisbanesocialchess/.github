@@ -103,10 +103,10 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 🎮 Discord Moderators
 
 - [John Bampton](https://github.com/jbampton): Admin
-- [therealnugget](https://github.com/therealnugget): Lead Moderator
+- Jasper: Team Leaders
+- [therealnugget](https://github.com/therealnugget): Team Leaders
 - [Anuradha Fernando](https://github.com/anufdo)
 - [Ayush Rana](https://github.com/ayushrana182)
-- Jasper
 - [Mahabub Islam Prio](https://github.com/prio101)
 - [Matt McLean](https://github.com/LuckyNotGood)
 - [Max Base](https://github.com/BaseMax)
