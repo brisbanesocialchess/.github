@@ -1,20 +1,24 @@
-# https://pre-commit.com/#installation
 default_stages: [pre-commit, pre-push]
+
 default_language_version:
   # force all unspecified Python hooks to run python3
   python: python3
   # force all unspecified Node hooks to run Node.js v22.17.0 LTS
   node: 22.17.0
+
 minimum_pre_commit_version: '3.2.0'
+
 repos:
   - repo: meta
     hooks:
       - id: identity
         name: run identity
         description: check to see if your identity is set
+
       - id: check-hooks-apply
         name: run check hooks apply
         description: useful when testing new hooks to see if they apply to the repository
+
   - repo: local
     hooks:
       - id: prettier
@@ -24,62 +28,71 @@ repos:
         files: \.(md|json|ya?ml)$
         language: node
         additional_dependencies: ['prettier@3.6.2']
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
       - id: check-case-conflict
         name: run check for case conflicts
         description: check for files with names that would conflict on a case-insensitive filesystem like MacOS HFS+ or Windows FAT
+
       - id: check-illegal-windows-names
         name: run check for illegal windows names
         description: check for files that cannot be created on Windows
+
       - id: check-json
         name: run check JSON
         description: attempts to load all json files to verify syntax
+
       - id: check-merge-conflict
         name: run check for merge conflicts
         description: check for files that contain merge conflict strings
+
       - id: check-vcs-permalinks
         name: run check for vcs permalinks
         description: ensures that links to vcs websites are permalinks
+
       - id: check-yaml
         name: run check YAML
         description: attempts to load all yaml files to verify syntax
+
       - id: detect-aws-credentials
         name: run check for aws credentials
         description: checks for the existence of AWS secrets that you have set up with the AWS CLI
         args: [--allow-missing-credentials]
+
       - id: detect-private-key
         name: run check for private keys
         description: checks for the existence of private keys
+
       - id: end-of-file-fixer
         name: run end of file fixer
         description: makes sure files end in a newline and only a newline
+
       - id: fix-byte-order-marker
         name: run fix byte order marker
         description: removes UTF-8 byte order marker
+
       - id: forbid-submodules
         name: run forbid submodules
         description: forbids any submodules in the repository
+
       - id: mixed-line-ending
         name: run check for mixed line endings
         description: replaces or checks mixed line ending
+
       - id: trailing-whitespace
         name: run check for trailing whitespace
         description: trims trailing whitespace
         args: [--markdown-linebreak-ext=md]
-  - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.25.1
-    hooks:
-      - id: gitleaks
-        name: run gitleaks
-        description: gitleaks detects hardcoded secrets in the repo
+
   - repo: https://github.com/rhysd/actionlint
     rev: v1.7.7
     hooks:
       - id: actionlint
         name: run actionlint
         description: lint GitHub Actions workflow files
+
   - repo: https://github.com/codespell-project/codespell
     rev: v2.4.1
     hooks:
@@ -87,16 +100,18 @@ repos:
         name: run codespell
         description: check for misspelled words with codespell
         args: ['--skip=git']
+
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.44.0
+    rev: v0.45.0
     hooks:
       - id: markdownlint
         name: run markdownlint
         description: lint Markdown files with markdownlint
         args: [--config=.github/linters/.markdown-lint.yml]
         files: \.md$
+
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.0
+    rev: v1.37.1
     hooks:
       - id: yamllint
         name: run yamllint
