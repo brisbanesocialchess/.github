@@ -91,8 +91,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ### 👨‍🔧 Maintainers
 
-- [John Bampton](https://github.com/jbampton): Lead Maintainer
-- [Rob Garvey](https://github.com/garveybiz)
+- [John Bampton](https://github.com/jbampton)
 
 ### 💾 Developers
 
