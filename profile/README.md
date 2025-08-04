@@ -112,6 +112,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [Nicholas Meredith](https://github.com/udha)
 - [Rob Garvey](https://github.com/garveybiz)
 - [SM Riad](https://github.com/smriad)
+- [sugiarto](https://github.com/ugifractal)
 
 ---
 
