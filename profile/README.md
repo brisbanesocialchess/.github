@@ -96,7 +96,6 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ### 💾 Developers
 
 - [Max Base](https://github.com/BaseMax): Lead Developer
-- [Anuradha Fernando](https://github.com/anufdo)
 
 ## 🎮 Discord Moderators
 
