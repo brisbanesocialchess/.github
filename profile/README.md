@@ -89,7 +89,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 🛠️ GitHub Team
 
-### 👨‍🔧 Maintainers
+### 👨‍🔧 Maintainer
 
 - [John Bampton](https://github.com/jbampton)
 
