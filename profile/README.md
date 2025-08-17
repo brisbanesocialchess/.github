@@ -8,14 +8,13 @@ Welcome to Brisbane's premier social chess community. We are a registered commun
 
 Join us at any of our six weekly locations across Brisbane:
 
-| Day       | Time          | Venue                  | Location                                                        |
-| --------- | ------------- | ---------------------- | --------------------------------------------------------------- |
-| Monday    | 4:00-7:00 PM  | **Pig N Whistle KGS**  | King George Square, 100 Adelaide Street, Brisbane City QLD 4000 |
-| Wednesday | 12:00-2:30 PM | **June's Café**        | 17 Lytton Rd, East Brisbane QLD 4169                            |
-| Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012                               |
-| Friday    | 12:00-2:00 PM | **Chocolate Moments**  | 60 Albert St, Brisbane City QLD 4000                            |
-| Saturday  | 10:30-2:00 PM | **West End Park Café** | 305 Montague Rd, West End QLD 4101                              |
-| Sunday    | 11:00-2:00 PM | **The Garden Room**    | 1 Parkland Blvd, Brisbane City QLD 4000                         |
+| Day       | Time          | Venue                       | Location                                                        |
+| --------- | ------------- | --------------------------- | --------------------------------------------------------------- |
+| Wednesday | 12:00-2:30 PM | **June's Café**             | 17 Lytton Rd, East Brisbane QLD 4169                            |
+| Thursday  | 6:00-8:00 PM  | **Royal Hotel**             | 1259 Sandgate Rd, Nundah QLD 4012                               |
+| Friday    | 12:00-2:00 PM | **Chocolate Moments**       | 60 Albert St, Brisbane City QLD 4000                            |
+| Saturday  | 10:30-2:00 PM | **West End Park Café**      | 305 Montague Rd, West End QLD 4101                              |
+| Sunday    | 11:00-2:00 PM | **The Garden Room**         | 1 Parkland Blvd, Brisbane City QLD 4000                         |
 
 ## 🎯 Our Motto
 
@@ -102,6 +101,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - [John Bampton](https://github.com/jbampton): Admin
 - Jasper: Team Leaders
 - [therealnugget](https://github.com/therealnugget): Team Leaders
+- [Abhushan Gautam](https://github.com/carefreeav09)
 - [Anuradha Fernando](https://github.com/anufdo)
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Mahabub Islam Prio](https://github.com/prio101)
