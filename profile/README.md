@@ -1,10 +1,10 @@
 ![Brisbane Social Chess](images/brisbane-social-chess.jpg)
 
-# ♟️ Brisbane Social Chess Inc.
+# ♟️ Brisbane Social Chess Inc. 🏢
 
 Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
-## ▶️ We Play Chess On Three Social Networks
+## ▶️ We Play Chess On Three Social Networks 💃
 
 - [Chess.com](https://www.chess.com/club/brisbane-social-chess)
 - [FIDE Online Arena](https://worldchess.com/community/bsc)
