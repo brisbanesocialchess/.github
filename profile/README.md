@@ -63,6 +63,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Team Members
 
+<!-- prettier-ignore-start -->
 | Role            | Subrole                | Chess.com   | Name                                              |   |
 | --------------- | ---------------------- | ----------- | ------------------------------------------------- | - |
 | President       | Co-organizer           | Admin       | Jimmy Joe                                         |   |
@@ -75,20 +76,17 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |   | 
 | Meetup Regular  | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) |   |
 | Lead Developer  | GitHub Triage          | Club member | [Max Base](https://github.com/BaseMax) 💾         |   |
-
-### 🧑🏽‍🎨 Other Organizers
-
-- Assistant organizer
-  - Roger Clarke
-- Event organizers
-  - Christoph Dierkes
-  - JoeT
-  - Marty Benjamin
-  - Peiqi Sun
-  - Stuart
+| Meetup Regular  | Assistant Organizer    | N/A         | Roger Clarke                                      |   |
+| Meetup Regular  | Event Organizer        | N/A         | Christoph Dierkes                                 |   |
+| Meetup Regular  | Event Organizer        | N/A         | JoeT                                              |   |
+| Meetup Regular  | Event Organizer        | N/A         | Marty Benjamin                                    |   |
+| Meetup Regular  | Event Organizer        | N/A         | Peiqi Sun                                         |   |
+| Meetup Regular  | Event Organizer        | N/A         | Stuart                                            |   |
+<!-- prettier-ignore-end -->
 
 ## 🎮 Discord Moderators
 
+- [John Bampton](https://github.com/jbampton): Admin
 - Jasper: Team Leader
 - [therealnugget](https://github.com/therealnugget): Team Leader
 - [Abhushan Gautam](https://github.com/carefreeav09)
