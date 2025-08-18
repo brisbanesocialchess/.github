@@ -4,6 +4,12 @@
 
 Welcome to Brisbane's premier social chess community. We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
+## ▶️ We Play Chess On Three Social Networks
+
+- [Chess.com](https://www.chess.com/club/brisbane-social-chess)
+- [FIDE Online Arena](https://worldchess.com/community/bsc)
+- [lichess](https://lichess.org/team/brisbane-social-chess)
+
 ## 🗓️ Weekly Meetups
 
 Join us at any of our five weekly locations across Brisbane:
