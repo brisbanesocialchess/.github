@@ -73,7 +73,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Administrator   | Maintainer             | Owner       | [John Bampton](https://github.com/jbampton) 👨‍🔧    | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) |
 | General Manager | Co-organizer           | Admin       | Adam Lomsargis                                    | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
 | General Manager | Co-organizer           | N/A         | Ben Martin                                        | How does the horsey move again? 🤔 |
-| Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |   | 
+| Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |   |
 | Meetup Regular  | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) |   |
 | Lead Developer  | GitHub Triage          | Club member | [Max Base](https://github.com/BaseMax) 💾         |   |
 | Meetup Regular  | Assistant Organizer    | N/A         | Roger Clarke                                      |   |
