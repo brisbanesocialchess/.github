@@ -63,17 +63,18 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Team Members
 
-| Role            | Subrole                | Chess.com   | Name                                              |                                                                                                                                                                                                                                                   |
-| --------------- | ---------------------- | ----------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| President       | Co-organizer           | Admin       | Jimmy Joe                                         |                                                                                                                                                                                                                                                   |
-| Treasurer       | Organizer              | Super Admin | [Matt McLean](https://github.com/LuckyNotGood)    | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca)                                                                                                                                      |
-| Secretary       | Co-organizer           | N/A         | Steve Anderson                                    | Official pawn wrangler                                                                                                                                                                                                                            |
-| Auditor         | Co-organizer           | Super Admin | [Rob Garvey](https://github.com/garveybiz)        | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events.                                                                                                                        |
-| Administrator   | Maintainer             | Owner       | [John Bampton](https://github.com/jbampton)       | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)                                                                             |
+| Role            | Subrole                | Chess.com   | Name                                              |   |
+| --------------- | ---------------------- | ----------- | ------------------------------------------------- | - |
+| President       | Co-organizer           | Admin       | Jimmy Joe                                         |   |
+| Treasurer       | Organizer              | Super Admin | [Matt McLean](https://github.com/LuckyNotGood)    | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
+| Secretary       | Co-organizer           | N/A         | Steve Anderson                                    | Official pawn wrangler |
+| Auditor         | Co-organizer           | Super Admin | [Rob Garvey](https://github.com/garveybiz)        | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events. |
+| Administrator   | Maintainer             | Owner       | [John Bampton](https://github.com/jbampton) 👨‍🔧    | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) |
 | General Manager | Co-organizer           | Admin       | Adam Lomsargis                                    | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
-| General Manager | Co-organizer           | N/A         | Ben Martin                                        | How does the horsey move again? 🤔                                                                                                                                                                                                                |
-| Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |                                                                                                                                                                                                                                                   |
-| Meetup Regular  | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) |                                                                                                                                                                                                                                                   |
+| General Manager | Co-organizer           | N/A         | Ben Martin                                        | How does the horsey move again? 🤔 |
+| Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |   | 
+| Meetup Regular  | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) |   |
+| Lead Developer  | GitHub Triage          | Club member | [Max Base](https://github.com/BaseMax) 💾         |   |
 
 ### 🧑🏽‍🎨 Other Organizers
 
@@ -86,21 +87,10 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
   - Peiqi Sun
   - Stuart
 
-## 🛠️ GitHub Team
-
-### 👨‍🔧 Maintainer
-
-- [John Bampton](https://github.com/jbampton)
-
-### 💾 Developer
-
-- [Max Base](https://github.com/BaseMax): Lead Developer
-
 ## 🎮 Discord Moderators
 
-- [John Bampton](https://github.com/jbampton): Admin
-- Jasper: Team Leaders
-- [therealnugget](https://github.com/therealnugget): Team Leaders
+- Jasper: Team Leader
+- [therealnugget](https://github.com/therealnugget): Team Leader
 - [Abhushan Gautam](https://github.com/carefreeav09)
 - [Anuradha Fernando](https://github.com/anufdo)
 - [Ayush Rana](https://github.com/ayushrana182)
