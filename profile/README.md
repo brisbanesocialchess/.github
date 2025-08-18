@@ -61,15 +61,16 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 **To Join**: Please verify your credentials by linking your GitHub profile to your chess.com and/or lichess profiles. Open an issue to request membership once completed.
 
-## 👥 Management Committee
+## 👥 Team Members
 
-| Role            | Name                                                               |
-| --------------- | ------------------------------------------------------------------ |
-| President       | Jimmy Joe                                                          |
-| Treasurer       | [Matt McLean](https://github.com/LuckyNotGood)                     |
-| Secretary       | Steve                                                              |
-| Auditor         | [Rob Garvey](https://github.com/garveybiz)                         |
-| General Members | Adam Lomsargis, Ben M, [John Bampton](https://github.com/jbampton) |
+| Role             | Subrole       | Name                                               |
+| ---------------- | ------------- | -------------------------------------------------- |
+| President        | Co-organizer  | Jimmy Joe                                          |
+| Treasurer        | Organizer     | [Matt McLean](https://github.com/LuckyNotGood)     |
+| Secretary        | Co-organizer  | Steve Anderson                                     |
+| Auditor          | Co-organizer  | [Rob Garvey](https://github.com/garveybiz)         |
+| Administrator    | Maintainer    | [John Bampton](https://github.com/jbampton)        |
+| General Managers | Co-organizers | Adam Lomsargis, Ben Martin                         |
 
 ## 🧑🏽‍🎨 Organizers
 
@@ -97,7 +98,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 - [John Bampton](https://github.com/jbampton)
 
-### 💾 Developers
+### 💾 Developer
 
 - [Max Base](https://github.com/BaseMax): Lead Developer
 
