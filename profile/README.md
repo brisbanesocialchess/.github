@@ -63,26 +63,20 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 👥 Team Members
 
-| Role             | Subrole       | Name                                               |
-| ---------------- | ------------- | -------------------------------------------------- |
-| President        | Co-organizer  | Jimmy Joe                                          |
-| Treasurer        | Organizer     | [Matt McLean](https://github.com/LuckyNotGood)     |
-| Secretary        | Co-organizer  | Steve Anderson                                     |
-| Auditor          | Co-organizer  | [Rob Garvey](https://github.com/garveybiz)         |
-| Administrator    | Maintainer    | [John Bampton](https://github.com/jbampton)        |
-| General Managers | Co-organizers | Adam Lomsargis, Ben Martin                         |
+| Role             | Subrole      | Chess.com   | Name                                           |   |
+| ---------------- | ------------ | ----------- | ---------------------------------------------- | - |
+| President        | Co-organizer | Admin       | Jimmy Joe                                      |   |
+| Treasurer        | Organizer    | Super Admin | [Matt McLean](https://github.com/LuckyNotGood) | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
+| Secretary        | Co-organizer | N/A         | Steve Anderson                                 | Official pawn wrangler |
+| Auditor          | Co-organizer | Super Admin | [Rob Garvey](https://github.com/garveybiz)  | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events. |
+| Administrator    | Maintainer   | Owner       | [John Bampton](https://github.com/jbampton) | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) |
+| General Manager  | Co-organizer | Admin       | Adam Lomsargis | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
+| General Manager  | Co-organizer | N/A         | Ben Martin  | How does the horsey move again? 🤔 |
+| Meetup Regular   | Co-organizer | Coordinator | Ross Barnard | |
+| Meetup Regular   | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) | |
 
-## 🧑🏽‍🎨 Organizers
+### 🧑🏽‍🎨 Other Organizers
 
-- Organizer
-  - [Matt McLean](https://github.com/LuckyNotGood): "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca)
-- Co-organizers:
-  - Adam Lomsargis: Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D
-  - Ben M: How does the horsey move again? 🤔
-  - Jimmy Joe
-  - [Rob Garvey](https://github.com/garveybiz): Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events.
-  - Steve: Official pawn wrangler.
-  - the Prof
 - Assistant organizer
   - Roger Clarke
 - Event organizers
