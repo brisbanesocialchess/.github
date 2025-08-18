@@ -61,6 +61,12 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 **To Join**: Please verify your credentials by linking your GitHub profile to your chess.com and/or lichess profiles. Open an issue to request membership once completed.
 
+### 👨‍🏫 Our Masters
+
+- FM Stevan Jovic
+  - https://www.chess.com/member/stevanjovic
+  - https://lichess.org/coach/steva23
+
 ## 👥 Team Members
 
 <!-- prettier-ignore-start -->
