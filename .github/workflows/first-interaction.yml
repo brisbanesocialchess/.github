@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Welcome Message
-        uses: actions/first-interaction@v2
+        uses: actions/first-interaction@v3
         with:
           pr-message: |
             🎉 Welcome to our project, @{{ github.actor }}! Thank you for contributing!
