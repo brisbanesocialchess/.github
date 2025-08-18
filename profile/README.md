@@ -74,32 +74,24 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | General Manager | Co-organizer           | Admin       | Adam Lomsargis                                    | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
 | General Manager | Co-organizer           | N/A         | Ben Martin                                        | How does the horsey move again? 🤔 |
 | Meetup Regular  | Co-organizer           | Coordinator | Ross Barnard                                      |   |
-| Meetup Regular  | Lead Discord Moderator | Coordinator | [therealnugget](https://github.com/therealnugget) |   |
-| Lead Developer  | GitHub Triage          | Club member | [Max Base](https://github.com/BaseMax) 💾         |   |
+| Meetup Regular  | Discord Moderator Team Leader | Coordinator | [therealnugget](https://github.com/therealnugget) |   |
+| Meetup Regular  | Discord Moderator Team Leader | Club member | Jasper                                     |   |
 | Meetup Regular  | Assistant Organizer    | N/A         | Roger Clarke                                      |   |
 | Meetup Regular  | Event Organizer        | N/A         | Christoph Dierkes                                 |   |
 | Meetup Regular  | Event Organizer        | N/A         | JoeT                                              |   |
 | Meetup Regular  | Event Organizer        | N/A         | Marty Benjamin                                    |   |
 | Meetup Regular  | Event Organizer        | N/A         | Peiqi Sun                                         |   |
 | Meetup Regular  | Event Organizer        | N/A         | Stuart                                            |   |
+| Lead Developer  | GitHub Triage          | Club member | [Max Base](https://github.com/BaseMax) 💾         |   |
+| Developer | Discord Moderator | N/A | [Anuradha Fernando](https://github.com/anufdo) |
+| Developer | Discord Moderator | N/A | [sugiarto](https://github.com/ugifractal) |
+| Virtual Team Member | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09) |
+| Virtual Team Member | Discord Moderator | N/A | [Ayush Rana](https://github.com/ayushrana182) |
+| Virtual Team Member | Discord Moderator | N/A | [Mahabub Islam Prio](https://github.com/prio101) |
+| Virtual Team Member | Discord Moderator | N/A | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) |
+| Virtual Team Member | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha) |
+| Virtual Team Member | Discord Moderator | N/A | [SM Riad](https://github.com/smriad) |
 <!-- prettier-ignore-end -->
-
-## 🎮 Discord Moderators
-
-- [John Bampton](https://github.com/jbampton): Admin
-- Jasper: Team Leader
-- [therealnugget](https://github.com/therealnugget): Team Leader
-- [Abhushan Gautam](https://github.com/carefreeav09)
-- [Anuradha Fernando](https://github.com/anufdo)
-- [Ayush Rana](https://github.com/ayushrana182)
-- [Mahabub Islam Prio](https://github.com/prio101)
-- [Matt McLean](https://github.com/LuckyNotGood)
-- [Max Base](https://github.com/BaseMax)
-- [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia)
-- [Nicholas Meredith](https://github.com/udha)
-- [Rob Garvey](https://github.com/garveybiz)
-- [SM Riad](https://github.com/smriad)
-- [sugiarto](https://github.com/ugifractal)
 
 ---
 
