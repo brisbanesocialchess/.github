@@ -2,7 +2,7 @@
 
 # ♟️ Brisbane Social Chess Inc. 🏢
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
+[![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
 
 Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
