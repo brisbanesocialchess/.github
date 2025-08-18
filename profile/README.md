@@ -59,13 +59,14 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - FIDE Masters (FM)
 - Candidate Masters (CM)
 
-**To Join**: Please verify your credentials by linking your GitHub profile to your chess.com and/or lichess profiles. Open an issue to request membership once completed.
+**To Join**: Please verify your credentials by joining our club on chess.com
 
 ### 👨‍🏫 Our Masters
 
 - FM Stevan Jovic
   - https://www.chess.com/member/stevanjovic
   - https://lichess.org/coach/steva23
+  - https://ratings.fide.com/profile/923206
 
 ## 👥 Team Members
 
