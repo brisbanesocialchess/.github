@@ -102,10 +102,6 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ---
 
-**Be Our First GitHub Chess Master!** Join the Brisbane Social Chess GitHub Organization today.
-
----
-
 ## 🎲 Games that we play
 
 - [Chess](https://en.wikipedia.org/wiki/Chess): https://lichess.org/
