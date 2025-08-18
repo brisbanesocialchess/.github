@@ -71,7 +71,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 👥 Team Members
 
 <!-- prettier-ignore-start -->
-| Role            | Subrole                | Chess.com   | Name | FIDE Profile | About | 
+| Role            | Subrole                | Chess.com   | Name | FIDE Profile | About |
 | --------------- | ---------------------- | ----------- | ---- | ------------ | ----- |
 | President       | Co-organizer           | [Admin](https://www.chess.com/member/hinewa) | Jimmy Joe | | |
 | Treasurer       | Organizer              | [Super Admin](https://www.chess.com/member/doctorfaustus82) | [Matt McLean](https://github.com/LuckyNotGood) | [3232581](https://ratings.fide.com/profile/3232581) | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
