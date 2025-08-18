@@ -61,7 +61,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 **To Join**: Please verify your credentials by joining our club on chess.com
 
-### 👨‍🏫 Our Masters
+### 👨‍🚀 Our Masters
 
 - FM Stevan Jovic
   - https://www.chess.com/member/stevanjovic
@@ -71,33 +71,33 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 ## 👥 Team Members
 
 <!-- prettier-ignore-start -->
-| Role            | Subrole                | Chess.com   | Name | FIDE Profile | About |
-| --------------- | ---------------------- | ----------- | ---- | ------------ | ----- |
-| President       | Co-organizer           | [Admin](https://www.chess.com/member/hinewa) | Jimmy Joe | | |
-| Treasurer       | Organizer              | [Super Admin](https://www.chess.com/member/doctorfaustus82) | [Matt McLean](https://github.com/LuckyNotGood) | [3232581](https://ratings.fide.com/profile/3232581) | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
-| Secretary       | Co-organizer           | N/A         | Steve Anderson | | Official pawn wrangler |
-| Auditor         | Co-organizer           | [Super Admin](https://www.chess.com/member/garveybiz) | [Rob Garvey](https://github.com/garveybiz) | | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events. |
-| Administrator   | Maintainer             | [Owner](https://www.chess.com/member/rubyfu) | [John Bampton](https://github.com/jbampton) 👨‍🔧 | [311111104](https://ratings.fide.com/profile/311111104) | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) |
-| General Manager | Co-organizer           | [Admin](https://www.chess.com/member/zezky2211) | Adam Lomsargis | | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
-| General Manager | Co-organizer           | N/A         | Ben Martin | [3274063](https://ratings.fide.com/profile/3274063) | How does the horsey move again? 🤔 |
-| Meetup Regular  | Co-organizer           | [Coordinator](https://www.chess.com/member/profbarny) | Ross Barnard | [3244008](https://ratings.fide.com/profile/3244008) | |
-| Meetup Regular  | Discord Moderator Team Leader | [Coordinator](https://www.chess.com/member/thec_programmer) | [therealnugget](https://github.com/therealnugget) | | |
-| Meetup Regular  | Discord Moderator Team Leader | [Club member](https://www.chess.com/member/itz_shooty) | Jasper | | |
-| Meetup Regular  | Assistant Organizer    | N/A         | Roger Clarke | | |
-| Meetup Regular  | Event Organizer        | N/A         | Christoph Dierkes | | |
-| Meetup Regular  | Event Organizer        | N/A         | JoeT | [3250105](https://ratings.fide.com/profile/3250105) | |
-| Meetup Regular  | Event Organizer        | N/A         | Marty Benjamin | | |
-| Meetup Regular  | Event Organizer        | N/A         | Peiqi Sun | | |
-| Meetup Regular  | Event Organizer        | N/A         | Stuart Holt | [3225569](https://ratings.fide.com/profile/3225569) | |
-| Lead Developer  | GitHub Triage          | [Club member](https://www.chess.com/member/maxbase) | [Max Base](https://github.com/BaseMax) 💾  | | |
-| Developer | Discord Moderator | N/A | [Anuradha Fernando](https://github.com/anufdo) | | |
-| Developer | Discord Moderator | N/A | [sugiarto](https://github.com/ugifractal) | | |
-| Virtual Team Member | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09) | | |
-| Virtual Team Member | Discord Moderator | N/A | [Ayush Rana](https://github.com/ayushrana182) | | |
-| Virtual Team Member | Discord Moderator | N/A | [Mahabub Islam Prio](https://github.com/prio101) | | |
-| Virtual Team Member | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | |
-| Virtual Team Member | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha) | | |
-| Virtual Team Member | Discord Moderator | N/A | [SM Riad](https://github.com/smriad) | | |
+| Role              | Subrole                | Chess.com   | Name | FIDE Profile | About |
+| ----------------- | ---------------------- | ----------- | ---- | ------------ | ----- |
+| President 👨‍✈️      | Co-organizer           | [Admin](https://www.chess.com/member/hinewa) | Jimmy Joe | | |
+| Treasurer 💳      | Organizer              | [Super Admin](https://www.chess.com/member/doctorfaustus82) | [Matt McLean](https://github.com/LuckyNotGood) | [3232581](https://ratings.fide.com/profile/3232581) | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
+| Secretary 🤹‍♂️      | Co-organizer           | N/A         | Steve Anderson | | Official pawn wrangler |
+| Auditor 👨‍⚖️        | Co-organizer           | [Super Admin](https://www.chess.com/member/garveybiz) | [Rob Garvey](https://github.com/garveybiz) | | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events. |
+| Administrator 💾  | Maintainer             | [Owner](https://www.chess.com/member/rubyfu) | [John Bampton](https://github.com/jbampton) 👨‍🎨 | [311111104](https://ratings.fide.com/profile/311111104) | GitHub is more about collaboration and community than code. Please tell me about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) |
+| General Manager 👨 | Co-organizer           | [Admin](https://www.chess.com/member/zezky2211) | Adam Lomsargis | | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
+| General Manager 🧔 | Co-organizer           | N/A         | Ben Martin | [3274063](https://ratings.fide.com/profile/3274063) | How does the horsey move again? 🤔 |
+| Meetup Regular 👨‍🏫 | Co-organizer           | [Coordinator](https://www.chess.com/member/profbarny) | Ross Barnard | [3244008](https://ratings.fide.com/profile/3244008) | |
+| Meetup Regular 👾 | Discord Moderator Team Leader | [Coordinator](https://www.chess.com/member/thec_programmer) | [therealnugget](https://github.com/therealnugget) | | |
+| Meetup Regular 👾 | Discord Moderator Team Leader | [Club member](https://www.chess.com/member/itz_shooty) | Jasper | | |
+| Meetup Regular 👨 | Assistant Organizer    | N/A         | Roger Clarke | | |
+| Meetup Regular ♟️ | Event Organizer        | N/A         | Christoph Dierkes | | |
+| Meetup Regular ♟️ | Event Organizer        | N/A         | JoeT | [3250105](https://ratings.fide.com/profile/3250105) | |
+| Meetup Regular ♟️ | Event Organizer        | N/A         | Marty Benjamin | | |
+| Meetup Regular ♟️ | Event Organizer        | N/A         | Peiqi Sun | | |
+| Meetup Regular ♟️ | Event Organizer        | N/A         | Stuart Holt | [3225569](https://ratings.fide.com/profile/3225569) | |
+| Lead Developer 💽 | GitHub Triage          | [Club member](https://www.chess.com/member/maxbase) | [Max Base](https://github.com/BaseMax) 🧑‍💻 | | |
+| Developer 🖱️ | Discord Moderator | N/A | [Anuradha Fernando](https://github.com/anufdo) | | |
+| Developer ⌨️ | Discord Moderator | N/A | [sugiarto](https://github.com/ugifractal) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Ayush Rana](https://github.com/ayushrana182) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Mahabub Islam Prio](https://github.com/prio101) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | N/A | [SM Riad](https://github.com/smriad) | | |
 <!-- prettier-ignore-end -->
 
 ---
