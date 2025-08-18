@@ -6,15 +6,15 @@ Welcome to Brisbane's premier social chess community. We are a registered commun
 
 ## 🗓️ Weekly Meetups
 
-Join us at any of our six weekly locations across Brisbane:
+Join us at any of our five weekly locations across Brisbane:
 
-| Day       | Time          | Venue                       | Location                                                        |
-| --------- | ------------- | --------------------------- | --------------------------------------------------------------- |
-| Wednesday | 12:00-2:30 PM | **June's Café**             | 17 Lytton Rd, East Brisbane QLD 4169                            |
-| Thursday  | 6:00-8:00 PM  | **Royal Hotel**             | 1259 Sandgate Rd, Nundah QLD 4012                               |
-| Friday    | 12:00-2:00 PM | **Chocolate Moments**       | 60 Albert St, Brisbane City QLD 4000                            |
-| Saturday  | 10:30-2:00 PM | **West End Park Café**      | 305 Montague Rd, West End QLD 4101                              |
-| Sunday    | 11:00-2:00 PM | **The Garden Room**         | 1 Parkland Blvd, Brisbane City QLD 4000                         |
+| Day       | Time          | Venue                  | Location                                |
+| --------- | ------------- | ---------------------- | --------------------------------------- |
+| Wednesday | 12:00-2:30 PM | **June's Café**        | 17 Lytton Rd, East Brisbane QLD 4169    |
+| Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012       |
+| Friday    | 12:00-2:00 PM | **Chocolate Moments**  | 60 Albert St, Brisbane City QLD 4000    |
+| Saturday  | 10:30-2:00 PM | **West End Park Café** | 305 Montague Rd, West End QLD 4101      |
+| Sunday    | 11:00-2:00 PM | **The Garden Room**    | 1 Parkland Blvd, Brisbane City QLD 4000 |
 
 ## 🎯 Our Motto
 
@@ -73,7 +73,6 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
   - Adam Lomsargis: Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D
   - Ben M: How does the horsey move again? 🤔
   - Jimmy Joe
-  - [John Bampton](https://github.com/jbampton): GitHub is more about collaboration and community than code. Let me know about your favorite [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants).
   - [Rob Garvey](https://github.com/garveybiz): Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events.
   - Steve: Official pawn wrangler.
   - the Prof
