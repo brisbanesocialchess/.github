@@ -9,6 +9,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 [![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
 [![Labeler](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml)
+[![ls-lint](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml)
 [![pre-commit](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
 
 ## ▶️ We Play Chess On Three Social Networks 💃
