@@ -4,6 +4,7 @@
 
 Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
+[![Discord](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
 [![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
 [![View the project board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
