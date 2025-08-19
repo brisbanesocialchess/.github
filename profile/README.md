@@ -11,6 +11,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 [![Labeler](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml)
 [![ls-lint](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml)
 [![pre-commit](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
+[![Proselint](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml)
 
 ## ▶️ We Play Chess On Three Social Networks 💃
 
