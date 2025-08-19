@@ -1,4 +1,4 @@
-name: Proselint Linting
+name: ✍️ Proselint
 
 on:
   push:
