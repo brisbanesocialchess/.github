@@ -4,10 +4,10 @@
 
 Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
-[![Discord](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
-[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
+[![View The Project Board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
-[![View the project board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
+[![Discord Server](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
 
 [![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
@@ -16,7 +16,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 [![pre-commit](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
 [![Proselint](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml)
 [![Super-Linter](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml)
-[![Test git clone](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml)
+[![Test Git Clone](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml)
 
 ## ▶️ We Play Chess On Three Social Networks 💃
 
