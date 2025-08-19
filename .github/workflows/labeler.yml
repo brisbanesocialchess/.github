@@ -1,5 +1,5 @@
 ---
-name: 'Pull Request Labeler'
+name: 🤖 Pull Request Labeler
 
 on:
   - pull_request_target
@@ -9,10 +9,11 @@ permissions:
 
 jobs:
   label:
-    runs-on: ubuntu-latest
+    name: 🏷️ Auto-Label Pull Request
     permissions:
-      pull-requests: write # Ensure write access for PRs
-
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
     steps:
       - name: Pull Request Labeler
         uses: actions/labeler@v5
