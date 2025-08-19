@@ -6,6 +6,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
 
+[![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
 [![Labeler](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml)
 [![pre-commit](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
