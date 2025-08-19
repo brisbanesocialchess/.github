@@ -1,4 +1,4 @@
-name: Test
+name: 🧪 Test git clone
 on:
   push:
     branches:
@@ -11,7 +11,7 @@ permissions:
 jobs:
   test-git-clone:
     timeout-minutes: 10
-    name: 'Test git clone on ${{ matrix.os }}'
+    name: 'Clone on ${{ matrix.os }}'
     runs-on: '${{ matrix.os }}'
     strategy:
       fail-fast: false
