@@ -6,17 +6,20 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 [![View The Project Board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
-[![Discord Server](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
+[![Join the Discord Server](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
 [![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
 
+[![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages)](https://brisbanesocialchess.github.io)
+[![Read the Docs Status](https://readthedocs.org/projects/brisbanesocialchess/badge/?version=latest)](https://brisbanesocialchess.readthedocs.io/en/latest/)
+
 [![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
-[![First Interaction](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
-[![Labeler](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml)
-[![ls-lint](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml)
-[![pre-commit](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
-[![Proselint](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml)
-[![Super-Linter](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml)
-[![Test Git Clone](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml)
+[![First Interaction Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
+[![Pull Request Labeler Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/labeler.yml)
+[![ls-lint Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/ls-lint.yml)
+[![pre-commit Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/pre-commit.yml)
+[![Proselint Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/proselint.yml)
+[![Super-Linter Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml)
+[![Test Git Clone Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml)
 
 ## ▶️ We Play Chess On Three Social Networks 💃
 
