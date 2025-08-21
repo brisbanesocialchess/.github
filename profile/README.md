@@ -110,8 +110,8 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Developer 🖱️ | Discord Moderator | N/A | [Anuradha Fernando](https://github.com/anufdo) | | |
 | Developer ⌨️ | Discord Moderator | N/A | [sugiarto](https://github.com/ugifractal) | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09) | | |
-| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Ayush Rana](https://github.com/ayushrana182) | | |
-| Virtual Team Member 🕹️ | Discord Moderator | N/A | [Mahabub Islam Prio](https://github.com/prio101) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/ayushrana182) | [Ayush Rana](https://github.com/ayushrana182) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/prio101) | [Mahabub Islam Prio](https://github.com/prio101) | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha) | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [SM Riad](https://github.com/smriad) | | |
