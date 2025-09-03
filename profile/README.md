@@ -98,7 +98,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | General Manager 👨 | Co-organizer           | [Admin](https://www.chess.com/member/zezky2211) | Adam Lomsargis                                                 | | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
 | General Manager 🧔 | Co-organizer           | N/A         | Ben Martin                                                     | [3274063](https://ratings.fide.com/profile/3274063) | How does the [horsey](https://en.wikipedia.org/wiki/Knight_(chess)) move again? 🤔 |
 | Meetup Regular 👨‍🏫 | Co-organizer           | [Coordinator](https://www.chess.com/member/profbarny) | Ross Barnard                                                   | [3244008](https://ratings.fide.com/profile/3244008) | |
-| Meetup Regular 👾 | Discord Moderator Team Leader | [Coordinator](https://www.chess.com/member/thec_programmer) | [therealnugget](https://github.com/therealnugget)              | | |
+| Meetup Regular 👾 | Discord Moderator Team Leader | [Coordinator](https://www.chess.com/member/thec_programmer) | [Thomas](https://github.com/therealnugget)                     | | |
 | Meetup Regular 👾 | Discord Moderator Team Leader | [Club member](https://www.chess.com/member/itz_shooty) | Jasper                                                         | | |
 | Meetup Regular 👨 | Assistant Organizer    | N/A         | Roger Clarke                                                   | | |
 | Meetup Regular ♟️ | Event Organizer        | N/A         | Christoph Dierkes                                              | | |
@@ -108,7 +108,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Meetup Regular ♟️ | Event Organizer        | N/A         | Stuart Holt                                                    | [3225569](https://ratings.fide.com/profile/3225569) | |
 | Lead Developer 💽 | GitHub Triage          | [Club member](https://www.chess.com/member/maxbase) | [Max Base](https://github.com/BaseMax) 🧑‍💻                   | | If you truly want something, whether it’s to achieve a goal, gain an ability, or reach a certain point in life, you can. All it takes is genuine desire, effort, and a clear plan. Want it, work for it, and you will get there. Nominate me as a <a href="https://stars.github.com/">GitHub Star</a> 👋 |
 | Developer 🖱️ | Discord Moderator | N/A | [Anuradha Fernando](https://github.com/anufdo)                 | | |
-| Developer ⌨️ | Discord Moderator | N/A | [sugiarto](https://github.com/ugifractal)                      | | |
+| Developer ⌨️ | Discord Moderator | N/A | [Sugiarto Udah](https://github.com/ugifractal)                 | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09)             | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/ayushrana182) | [Ayush Rana](https://github.com/ayushrana182)                  | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/prio101) | [Mahabub Islam Prio](https://github.com/prio101)               | | |
