@@ -15,15 +15,16 @@ jobs:
     permissions:
       contents: read
       packages: read
-      statuses: write # To report GitHub Actions status checks
+      statuses: write
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # super-linter needs the full git history for file changes across commits
+          fetch-depth: 0
 
-      - name: Super-Linter
-        uses: super-linter/super-linter@v8.1.0 # x-release-please-version
+      - name: Run Super-Linter
+        uses: github/super-linter@v8.1.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # To report GitHub Actions status checks
+          DEFAULT_BRANCH: main # adjust if your repo uses "master"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
