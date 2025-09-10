@@ -4,13 +4,20 @@
 
 Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
+## 👩🏽‍⚕️ Project Health/Development Status
+
 [![View The Project Board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
 [![Join the Discord Server](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
-[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
+
+### 🔋 Status for the [brisbanesocialchess.github.io project](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
 [![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages)](https://brisbanesocialchess.github.io)
 [![Read the Docs Status](https://readthedocs.org/projects/brisbanesocialchess/badge/?version=latest)](https://brisbanesocialchess.readthedocs.io/en/latest/)
+
+### 📖 Status for [this organization repository](https://github.com/brisbanesocialchess/.github)
+
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
 
 [![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
