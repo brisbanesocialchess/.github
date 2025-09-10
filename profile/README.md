@@ -14,6 +14,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 [![MIT License](https://img.shields.io/github/license/brisbanesocialchess/brisbanesocialchess.github.io?label=%E2%9A%96%EF%B8%8F%20license)](LICENSE)
 [![Package - @11ty/eleventy](https://img.shields.io/github/package-json/dependency-version/brisbanesocialchess/brisbanesocialchess.github.io/dev/@11ty/eleventy?color=blue)](https://www.npmjs.com/package/@11ty/eleventy)
+[![Package - tailwindcss](https://img.shields.io/github/package-json/dependency-version/brisbanesocialchess/brisbanesocialchess.github.io/tailwindcss?color=blue)](https://www.npmjs.com/package/tailwindcss)
 [![Cloudflare Pages site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.pages.dev&label=%F0%9F%8C%90%20cloudflare-pages)](https://brisbanesocialchess.pages.dev)
 [![GitHub Pages site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages)](https://brisbanesocialchess.github.io)
 [![Read the Docs site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.readthedocs.io%2Fen%2Flatest%2F&label=%F0%9F%8C%90%20read-the-docs)](https://brisbanesocialchess.readthedocs.io/en/latest/)
