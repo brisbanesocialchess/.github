@@ -21,7 +21,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ### 📖 Status for [this organization repository](https://github.com/brisbanesocialchess/.github)
 
-[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?style=for-the-badge&label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/.github?label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
 
 [![Dependabot Updates](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/first-interaction.yml)
