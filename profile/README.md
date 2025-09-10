@@ -12,8 +12,11 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ### 🔋 Status for the [brisbanesocialchess.github.io project](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
-[![GitHub Pages Status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages)](https://brisbanesocialchess.github.io)
-[![Read the Docs Status](https://readthedocs.org/projects/brisbanesocialchess/badge/?version=latest)](https://brisbanesocialchess.readthedocs.io/en/latest/)
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/brisbanesocialchess.github.io?label=%E2%9A%96%EF%B8%8F%20license)](LICENSE)
+[![Cloudflare Pages site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.pages.dev&label=%F0%9F%8C%90%20cloudflare-pages)](https://brisbanesocialchess.pages.dev)
+[![GitHub Pages site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.github.io&label=%F0%9F%8C%90%20github-pages)](https://brisbanesocialchess.github.io)
+[![Read the Docs site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.readthedocs.io%2Fen%2Flatest%2F&label=%F0%9F%8C%90%20read-the-docs)](https://brisbanesocialchess.readthedocs.io/en/latest/)
+[![GitHub Issues marked as good first issue](https://img.shields.io/github/issues/brisbanesocialchess/brisbanesocialchess.github.io/good%20first%20issue?color=%237057ff)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 
 ### 📖 Status for [this organization repository](https://github.com/brisbanesocialchess/.github)
 
