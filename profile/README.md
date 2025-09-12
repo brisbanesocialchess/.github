@@ -119,11 +119,11 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Meetup Regular ♟️ | Event Organizer        | N/A         | Peiqi Sun                                                      | | |
 | Meetup Regular ♟️ | Event Organizer        | N/A         | Stuart Holt                                                    | [3225569](https://ratings.fide.com/profile/3225569) | |
 | Lead Developer 💽 | GitHub Triage          | [Club member](https://www.chess.com/member/maxbase) | [Max Base](https://github.com/BaseMax) 🧑‍💻                   | | If you truly want something, whether it’s to achieve a goal, gain an ability, or reach a certain point in life, you can. All it takes is genuine desire, effort, and a clear plan. Want it, work for it, and you will get there. Nominate me as a <a href="https://stars.github.com/">GitHub Star</a> 👋 |
+| Developer 👨🏽‍🌾 | GitHub Triage | [Club member](https://www.chess.com/member/prio101) | [Mahabub Islam Prio](https://github.com/prio101)               | | |
 | Developer 🖱️ | Discord Moderator | [Club member](https://www.chess.com/member/anufdo) | [Anuradha Fernando](https://github.com/anufdo)                 | | |
 | Developer ⌨️ | Discord Moderator | N/A | [Sugiarto Udah](https://github.com/ugifractal)                 | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09)             | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/ayushrana182) | [Ayush Rana](https://github.com/ayushrana182)                  | | |
-| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/prio101) | [Mahabub Islam Prio](https://github.com/prio101)               | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha)                   | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [SM Riad](https://github.com/smriad)                           | | |
