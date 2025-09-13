@@ -12,7 +12,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ### 🔋 Status for the [Brisbane Social Chess web application project](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
-[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/brisbanesocialchess.github.io?label=%E2%9A%96%EF%B8%8F%20license)](LICENSE)
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/brisbanesocialchess.github.io?label=%E2%9A%96%EF%B8%8F%20license)](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io/blob/main/LICENSE)
 [![Package - @11ty/eleventy](https://img.shields.io/github/package-json/dependency-version/brisbanesocialchess/brisbanesocialchess.github.io/dev/@11ty/eleventy?color=blue)](https://www.npmjs.com/package/@11ty/eleventy)
 [![Package - tailwindcss](https://img.shields.io/github/package-json/dependency-version/brisbanesocialchess/brisbanesocialchess.github.io/tailwindcss?color=blue)](https://www.npmjs.com/package/tailwindcss)
 [![Cloudflare Pages site status](https://img.shields.io/website?url=https%3A%2F%2Fbrisbanesocialchess.pages.dev&label=%F0%9F%8C%90%20cloudflare-pages)](https://brisbanesocialchess.pages.dev)
