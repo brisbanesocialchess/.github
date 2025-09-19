@@ -125,7 +125,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 | Developer 〰️ | GitHub Contributor | N/A | [Emeka](https://github.com/janus)                 | | I am a lifelong learner, and I enjoy new challenges. However, life always throws surprises and I see such as opportunities to improve and move forward. At Brisbane Social Chess, I am fortunate to be in the company of great minds. |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Abhushan Gautam](https://github.com/carefreeav09)             | | |
 | Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/ayushrana182) | [Ayush Rana](https://github.com/ayushrana182)                  | | Always curious, always learning. Currently exploring MCP and MCP UIs, blending my love for tech with the creativity of chess and community. Good moves on the board, better vibes off the board 😎♟️ |
-| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | |
+| Virtual Team Member 🕹️ | Discord Moderator | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | I love chess and I casually follow the tournaments live on Twitch, it's so exciting when you see people's emotion and connection in the game. |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [Nicholas Meredith](https://github.com/udha)                   | | |
 | Virtual Team Member 🕹️ | Discord Moderator | N/A | [SM Riad](https://github.com/smriad)                           | | |
 <!-- prettier-ignore-end -->
