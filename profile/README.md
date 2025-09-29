@@ -35,7 +35,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ## ▶️ We Play Chess On Three Social Networks 💃
 
-- [Chess.com](https://www.chess.com/club/brisbane-social-chess)
+- [Chess.com](https://www.chess.com/club/brisbane-social-chess-inc)
 - [FIDE Online Arena](https://worldchess.com/community/bsc)
 - [lichess](https://lichess.org/team/brisbane-social-chess)
 
