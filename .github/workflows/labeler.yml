@@ -2,7 +2,10 @@
 name: 🤖 Pull Request Labeler
 
 on:
-  - pull_request_target
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - 'src/**'
 
 permissions:
   contents: read
