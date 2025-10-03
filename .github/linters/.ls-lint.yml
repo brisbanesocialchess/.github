@@ -1,7 +1,7 @@
 ls:
   .json: snake_case
-  .yaml: regex:\.?[a-z]+(-[a-z]+)*
-  .yml: regex:\.?[a-z]+(-[a-z]+)*
+  .yaml: regex:\.?[a-z0-9]+([-_][a-z0-9]+)*
+  .yml: regex:\.?[a-z0-9]+([-_][a-z0-9]+)*
 
 ignore:
   - FUNDING.yml
