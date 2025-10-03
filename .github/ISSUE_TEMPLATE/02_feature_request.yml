@@ -1,0 +1,35 @@
+---
+name: ✨ Feature Request
+about: Suggest a new feature or enhancement
+title: '[FEATURE] '
+labels: ['enhancement', 'needs-triage']
+assignees: []
+---
+
+## 🚀 Feature Description
+A clear and concise description of the feature you'd like to see implemented.
+
+## 🎯 Problem Statement
+Is your feature request related to a problem? Please describe the problem you're trying to solve.
+
+## 💡 Proposed Solution
+Describe the solution you'd like to see. Be as detailed as possible.
+
+## 🔄 Alternative Solutions
+Describe any alternative solutions or features you've considered.
+
+## 🎨 Mockups/Examples
+If applicable, add sketches, mockups, or examples to help explain your feature request.
+
+## 📊 Benefits
+- How will this feature benefit the Brisbane Social Chess community?
+- What problems will it solve?
+- How many users might benefit from this feature?
+
+## 🏗️ Implementation Considerations
+- Are there any technical challenges we should be aware of?
+- Dependencies or requirements?
+- Estimated complexity (if known)?
+
+## 📝 Additional Context
+Add any other context, links, or examples related to this feature request.

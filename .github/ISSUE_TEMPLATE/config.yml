@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord Community Support
+    url: https://discord.com/invite/JWBKhQmzvD
+    about: Join our Discord server for general questions and community discussions
+  - name: 📧 Email Contact
+    url: mailto:contact@brisbanesocialchess.org
+    about: Contact us directly via email for organizational matters
+  - name: 🌐 Visit Our Website
+    url: https://brisbanesocialchess.github.io
+    about: Learn more about Brisbane Social Chess on our official website
