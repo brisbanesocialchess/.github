@@ -27,3 +27,4 @@ jobs:
         uses: super-linter/super-linter@v6.0.0 # x-release-please-version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # To report GitHub Actions status checks
+          DEFAULT_BRANCH: main
