@@ -1,0 +1,52 @@
+---
+name: 📚 Documentation Improvement
+about: Suggest improvements to documentation
+title: '[DOCS] '
+labels: ['documentation', 'needs-triage']
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📖 Documentation Issue
+        What part of the documentation needs improvement?
+
+        ## 📍 Location
+        Please specify which documentation needs improvement:
+        - [ ] README files
+        - [ ] Code comments
+        - [ ] Website contents
+        - [ ] API documentation
+        - [ ] Tutorial/Guide
+        - [ ] Other: _______________
+
+        ## 🔗 Specific Files/URLs
+        List the specific files, pages, or sections that need improvement:
+
+        ## ❓ Current Problem
+        What is unclear, missing, or incorrect in the current documentation?
+
+        ## ✏️ Suggested Improvement
+        How should the documentation be improved? Be specific about:
+        - What content should be added/changed
+        - How it should be organized
+        - Any examples that should be included
+
+        ## 👥 Target Audience
+        Who would benefit from this documentation improvement?
+        - [ ] New contributors
+        - [ ] End users
+        - [ ] Chess players
+        - [ ] Developers
+        - [ ] Organization members
+        - [ ] Other: _______________
+
+        ## 🎯 Priority
+        How important is this documentation improvement?
+        - [ ] Critical - Blocking user success
+        - [ ] High - Frequently needed information
+        - [ ] Medium - Would be helpful to have
+        - [ ] Low - Nice to have
+
+        ## 📝 Additional Context
+        Any additional context, examples, or resources that might help with the improvement.
