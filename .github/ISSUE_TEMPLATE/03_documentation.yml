@@ -1,6 +1,6 @@
 ---
 name: 📚 Documentation Improvement
-about: Suggest improvements to documentation
+description: Suggest improvements to documentation
 title: '[DOCS] '
 labels: ['documentation', 'needs-triage']
 assignees: []
@@ -8,45 +8,97 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 📖 Documentation Issue
-        What part of the documentation needs improvement?
+        Thank you for helping improve our documentation! Please fill out the form below.
 
-        ## 📍 Location
-        Please specify which documentation needs improvement:
-        - [ ] README files
-        - [ ] Code comments
-        - [ ] Website contents
-        - [ ] API documentation
-        - [ ] Tutorial/Guide
-        - [ ] Other: _______________
+  - type: textarea
+    id: documentation-issue
+    attributes:
+      label: 📖 Documentation Issue
+      description: What part of the documentation needs improvement?
+      placeholder: Describe what needs to be improved...
+    validations:
+      required: true
 
-        ## 🔗 Specific Files/URLs
-        List the specific files, pages, or sections that need improvement:
+  - type: checkboxes
+    id: location
+    attributes:
+      label: 📍 Location
+      description: Please specify which documentation needs improvement
+      options:
+        - label: README files
+        - label: Code comments
+        - label: Website contents
+        - label: API documentation
+        - label: Tutorial/Guide
+        - label: Other
+    validations:
+      required: true
 
-        ## ❓ Current Problem
-        What is unclear, missing, or incorrect in the current documentation?
+  - type: textarea
+    id: specific-files
+    attributes:
+      label: 🔗 Specific Files/URLs
+      description: List the specific files, pages, or sections that need improvement
+      placeholder: |
+        - path/to/file.md
+        - https://example.com/page
+    validations:
+      required: false
 
-        ## ✏️ Suggested Improvement
-        How should the documentation be improved? Be specific about:
+  - type: textarea
+    id: current-problem
+    attributes:
+      label: ❓ Current Problem
+      description: What is unclear, missing, or incorrect in the current documentation?
+      placeholder: Explain what's wrong with the current documentation...
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-improvement
+    attributes:
+      label: ✏️ Suggested Improvement
+      description: How should the documentation be improved?
+      placeholder: |
         - What content should be added/changed
         - How it should be organized
         - Any examples that should be included
+    validations:
+      required: true
 
-        ## 👥 Target Audience
-        Who would benefit from this documentation improvement?
-        - [ ] New contributors
-        - [ ] End users
-        - [ ] Chess players
-        - [ ] Developers
-        - [ ] Organization members
-        - [ ] Other: _______________
+  - type: checkboxes
+    id: target-audience
+    attributes:
+      label: 👥 Target Audience
+      description: Who would benefit from this documentation improvement?
+      options:
+        - label: New contributors
+        - label: End users
+        - label: Chess players
+        - label: Developers
+        - label: Organization members
+        - label: Other
+    validations:
+      required: false
 
-        ## 🎯 Priority
-        How important is this documentation improvement?
-        - [ ] Critical - Blocking user success
-        - [ ] High - Frequently needed information
-        - [ ] Medium - Would be helpful to have
-        - [ ] Low - Nice to have
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🎯 Priority
+      description: How important is this documentation improvement?
+      options:
+        - Critical - Blocking user success
+        - High - Frequently needed information
+        - Medium - Would be helpful to have
+        - Low - Nice to have
+    validations:
+      required: false
 
-        ## 📝 Additional Context
-        Any additional context, examples, or resources that might help with the improvement.
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Any additional context, examples, or resources that might help with the improvement.
+      placeholder: Any additional information that might help...
+    validations:
+      required: false
