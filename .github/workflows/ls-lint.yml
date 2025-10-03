@@ -16,7 +16,7 @@ jobs:
     name: 🏃🏼 Run linter
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4.1.1
       - uses: ls-lint/action@v2.3.1
         with:
           config: .github/linters/.ls-lint.yml
