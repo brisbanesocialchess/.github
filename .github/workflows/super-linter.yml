@@ -19,11 +19,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0 # super-linter needs the full git history for file changes across commits
 
       - name: Super-Linter
-        uses: super-linter/super-linter@v8.2.0 # x-release-please-version
+        uses: super-linter/super-linter@v6.0.0 # x-release-please-version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # To report GitHub Actions status checks
+          DEFAULT_BRANCH: main
