@@ -1,6 +1,6 @@
 ---
 name: ✨ Feature Request
-about: Suggest a new feature or enhancement
+description: Suggest a new feature or enhancement
 title: '[FEATURE] '
 labels: ['enhancement', 'needs-triage']
 assignees: []
@@ -8,30 +8,82 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🚀 Feature Description
-        A clear and concise description of the feature you'd like to see implemented.
+        Thank you for suggesting a new feature! Please fill out the form below to help us understand your idea.
 
-        ## 🎯 Problem Statement
-        Is your feature request related to a problem? Please describe the problem you're trying to solve.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: 🚀 Feature Description
+      description: A clear and concise description of the feature you'd like to see implemented.
+      placeholder: Describe the feature you want...
+    validations:
+      required: true
 
-        ## 💡 Proposed Solution
-        Describe the solution you'd like to see. Be as detailed as possible.
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: 🎯 Problem Statement
+      description: Is your feature request related to a problem? Please describe the problem you're trying to solve.
+      placeholder: What problem does this feature solve?
+    validations:
+      required: true
 
-        ## 🔄 Alternative Solutions
-        Describe any alternative solutions or features you've considered.
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: 💡 Proposed Solution
+      description: Describe the solution you'd like to see. Be as detailed as possible.
+      placeholder: How should this feature work?
+    validations:
+      required: true
 
-        ## 🎨 Mockups/Examples
-        If applicable, add sketches, mockups, or examples to help explain your feature request.
+  - type: textarea
+    id: alternative-solutions
+    attributes:
+      label: 🔄 Alternative Solutions
+      description: Describe any alternative solutions or features you've considered.
+      placeholder: What other approaches have you thought about?
+    validations:
+      required: false
 
-        ## 📊 Benefits
+  - type: textarea
+    id: mockups-examples
+    attributes:
+      label: 🎨 Mockups/Examples
+      description: If applicable, add sketches, mockups, or examples to help explain your feature request.
+      placeholder: Drag and drop images here or paste links to examples...
+    validations:
+      required: false
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: 📊 Benefits
+      description: How will this feature benefit users?
+      placeholder: |
         - How will this feature benefit the Brisbane Social Chess community?
         - What problems will it solve?
         - How many users might benefit from this feature?
+    validations:
+      required: false
 
-        ## 🏗️ Implementation Considerations
-        - Are there any technical challenges we should be aware of?
+  - type: textarea
+    id: implementation-considerations
+    attributes:
+      label: 🏗️ Implementation Considerations
+      description: Are there any technical challenges or requirements we should know about?
+      placeholder: |
+        - Technical challenges?
         - Dependencies or requirements?
         - Estimated complexity (if known)?
+    validations:
+      required: false
 
-        ## 📝 Additional Context
-        Add any other context, links, or examples related to this feature request.
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Add any other context, links, or examples related to this feature request.
+      placeholder: Any additional information that might help...
+    validations:
+      required: false
