@@ -17,11 +17,10 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - {os: ubuntu-24.04}
+          - {os: ubuntu-latest}
           - {os: ubuntu-22.04}
-          - {os: macos-15}
-          - {os: macos-14}
-          - {os: windows-2025}
+          - {os: macos-latest}
+          - {os: windows-latest}
           - {os: windows-2022}
     steps:
       - name: 'Checkout ${{ github.ref }} ( ${{ github.sha }} )'
