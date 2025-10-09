@@ -17,4 +17,4 @@ jobs:
           pr_message: |
             🎉 Welcome to our project, @{{ github.actor }}! Thank you for contributing!
             We’re glad to have you here. If you have any questions, feel free to ask!
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
