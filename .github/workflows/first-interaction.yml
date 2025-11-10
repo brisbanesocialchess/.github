@@ -5,7 +5,8 @@ on:
     types: [opened]
 
 permissions:
-  contents: read
+  issues: write
+  pull-requests: write
 
 jobs:
   welcome:
@@ -14,6 +15,8 @@ jobs:
       - name: Welcome Message
         uses: actions/first-interaction@v3
         with:
+          issue_message: |
+            Thanks for opening this issue! We appreciate your contribution.
           pr_message: |
             🎉 Welcome to our project, @{{ github.actor }}! Thank you for contributing!
             We’re glad to have you here. If you have any questions, feel free to ask!
