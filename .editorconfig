@@ -27,4 +27,4 @@ trim_trailing_whitespace = false
 
 [*.json]
 # JSON files
-indent_size = 2
+indent_style = tab
