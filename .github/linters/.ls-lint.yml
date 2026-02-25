@@ -1,6 +1,7 @@
 ---
 ls:
   .json: snake_case
+  .txt: kebab-case
   .yaml: regex:\.?[a-z0-9]+([-_][a-z0-9]+)*
   .yml: regex:\.?[a-z0-9]+([-_][a-z0-9]+)*
 
