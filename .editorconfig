@@ -4,26 +4,17 @@
 root = true
 
 [*]
-# Indentation
-indent_style = space
-indent_size = 2
-tab_width = 2
-# End of line
-end_of_line = lf
-# Charset
 charset = utf-8
-# Trim trailing whitespace
-trim_trailing_whitespace = true
-# Insert final newline
+end_of_line = lf
+indent_size = 2
+indent_style = space
 insert_final_newline = true
+tab_width = 2
+trim_trailing_whitespace = true
 
 [Makefile]
 # Makefiles
 indent_style = tab
-
-[*.md]
-# Markdown files
-trim_trailing_whitespace = false
 
 [*.json]
 # JSON files
