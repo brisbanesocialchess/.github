@@ -34,10 +34,11 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ## 🗓️ Weekly Meetups
 
-Join us at any of our five weekly locations across Brisbane:
+Join us at any of our six weekly locations across Brisbane:
 
 | Day       | Time          | Venue                  | Location                                |
 | --------- | ------------- | ---------------------- | --------------------------------------- |
+| Tuesday   | 12:30-3:30 PM | **Ambassador Café**    | Shop K1/9 Sherwood Rd, Toowong QLD 4066 |
 | Wednesday | 12:00-2:30 PM | **June's Café**        | 17 Lytton Rd, East Brisbane QLD 4169    |
 | Thursday  | 6:00-8:00 PM  | **Royal Hotel**        | 1259 Sandgate Rd, Nundah QLD 4012       |
 | Friday    | 12:00-2:00 PM | **Chocolate Moments**  | 60 Albert St, Brisbane City QLD 4000    |
@@ -58,7 +59,7 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - FIDE Masters (FM)
 - Candidate Masters (CM)
 
-**To Join**: Please verify your credentials by joining our club on chess.com
+**To Join**: Please verify your credentials
 
 ---
 
