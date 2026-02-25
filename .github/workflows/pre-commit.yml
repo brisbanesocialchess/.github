@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405
         with:
-          python-version: '3.13' # Specify your Python version
+          python-version: '3.14'
 
       - name: Set Python Version Hash
         run: echo "PY=$(python -VV | sha256sum | cut -d' ' -f1)" >> "$GITHUB_ENV"
@@ -37,4 +37,6 @@ jobs:
           pip install pre-commit
 
       - name: Run pre-commit
-        run: pre-commit run --all-files
+        run: pre-commit run --color=always --all-files --show-diff-on-failure
+      - name: Run manual pre-commit hooks
+        run: pre-commit run --color=always --all-files --hook-stage manual --show-diff-on-failure
