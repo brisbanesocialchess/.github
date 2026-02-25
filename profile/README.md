@@ -65,6 +65,21 @@ Eligible titles include:
 
 ---
 
+## 🔗 Quick Links
+
+- Current Live Website: <https://www.brisbanesocialchess.org.au/>
+- Awesome Social Chess: <https://brisbanesocialchess.github.io/awesome-social-chess/>
+- Development Website: <https://brisbanesocialchess.github.io/>
+- Facebook: <https://www.facebook.com/BrisbaneSocialChess/>
+- Instagram: <https://www.instagram.com/brisbanesocialchess>
+- Meetup: <https://www.meetup.com/brisbane-social-chess/>
+- Read the Docs: <https://brisbanesocialchess.readthedocs.io>
+- Telegram: <https://t.me/brisbanesocialchess>
+- X: <https://x.com/BrisbaneChess>
+- YouTube: <https://www.youtube.com/@brisbanesocialchess>
+
+---
+
 ## 🎲 Games that we play
 
 - [Chess](https://en.wikipedia.org/wiki/Chess): <https://lichess.org/>
