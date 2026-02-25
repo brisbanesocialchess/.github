@@ -23,6 +23,7 @@ repos:
         files: \.(md|json|ya?ml)$
         language: node
         additional_dependencies: ['prettier@3.8.1']
+        pass_filenames: false
       - id: check-zip-file-is-not-committed
         name: check no zip files are committed
         description: Zip files are not allowed in the repository
