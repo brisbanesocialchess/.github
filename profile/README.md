@@ -118,7 +118,7 @@ Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
 ![Standard 4 Player Chess](images/standard-4-player-chess.jpg)
 
-## 🏡 Garden Room - Random Days Gone Bye
+## 🏡 Garden Room - Harmegedo Random Days Gone Bye
 
 ![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-the-board-of-lords-at-the-garden-room.jpg)
 
