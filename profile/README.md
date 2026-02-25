@@ -69,7 +69,7 @@ Eligible titles include:
 
 - Current Live Site: <https://www.brisbanesocialchess.org.au/>
 - Awesome Social Chess: <https://brisbanesocialchess.github.io/awesome-social-chess/>
-- Development Website: <https://brisbanesocialchess.github.io/>
+- Development Site: <https://brisbanesocialchess.github.io/>
 - Facebook: <https://www.facebook.com/BrisbaneSocialChess/>
 - Instagram: <https://www.instagram.com/brisbanesocialchess>
 - Meetup: <https://www.meetup.com/brisbane-social-chess/>
