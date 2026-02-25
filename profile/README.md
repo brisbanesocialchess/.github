@@ -2,7 +2,8 @@
 
 # ♟️ Brisbane Social Chess Inc. 🏢
 
-Welcome to Brisbane's premier social chess community. We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
+Welcome to Brisbane's premier social chess community.
+We are a registered not-for-profit community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement.
 
 ## 👩🏽‍⚕️ Project Health/Development Status
 
@@ -51,7 +52,8 @@ Join us at any of our six weekly locations across Brisbane:
 
 ## 👑 FIDE Masters Welcome
 
-We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles. Eligible titles include:
+We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles.
+Eligible titles include:
 
 - Super Grandmasters
 - Grandmasters (GM)
@@ -65,14 +67,15 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 
 ## 🎲 Games that we play
 
-- [Chess](https://en.wikipedia.org/wiki/Chess): https://lichess.org/
+- [Chess](https://en.wikipedia.org/wiki/Chess): <https://lichess.org/>
   - Lots of standard two player chess sets
-- [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): https://www.chess.com/variants/4-player-chess
+- [Four-player chess](https://en.wikipedia.org/wiki/Four-player_chess): <https://www.chess.com/variants/4-player-chess>
   - One vinyl Four-player chess set with 68 plastic pieces including 8 total queens which is packaged in a green cylindrical zipper bag
 - [Harmegedo 6 Player Chess - The Board of Lords](https://harmegedo.com/)
-  - One Harmegedo chess set with 6 armies and 108 total soldiers. Each army starts with 9 pieces (including 2 queens) and 9 pawns for a total of 18 soldiers
-- [Quaternity](https://www.quaternity.com/): https://play.quaternity.com/
-  - https://www.quaternity-chess.com/
+  - One Harmegedo chess set with 6 armies and 108 total soldiers.
+    Each army starts with 9 pieces (including 2 queens) and 9 pawns for a total of 18 soldiers
+- [Quaternity](https://www.quaternity.com/): <https://play.quaternity.com/>
+  - <https://www.quaternity-chess.com/>
   - One [Quaternity 4 Player Chess Set Basic52 144 Squares Wood Folding 64 Quality Pieces](https://www.ebay.com.au/itm/225608151106)
 
 ## 🕹️ New games recently delivered

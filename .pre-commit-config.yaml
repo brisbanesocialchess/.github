@@ -75,7 +75,6 @@ repos:
       - id: trailing-whitespace
         name: run check for trailing whitespace
         description: trims trailing whitespace
-        args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.30.0
     hooks:
