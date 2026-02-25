@@ -6,6 +6,7 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ## 👩🏽‍⚕️ Project Health/Development Status
 
+[![View the project board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
 
 ### 🔋 Status for the [Brisbane Social Chess Inc web application project](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
