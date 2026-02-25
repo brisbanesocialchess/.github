@@ -67,8 +67,9 @@ Eligible titles include:
 
 ## 🔗 Quick Links
 
-- Current Live Site: <https://www.brisbanesocialchess.org.au/>
 - Awesome Social Chess: <https://brisbanesocialchess.github.io/awesome-social-chess/>
+- Become an official club member: <https://app.joinit.com/o/brisbane-social-chess>
+- Current Live Site: <https://www.brisbanesocialchess.org.au/>
 - Development Site: <https://brisbanesocialchess.github.io/>
 - Facebook: <https://www.facebook.com/BrisbaneSocialChess/>
 - Instagram: <https://www.instagram.com/brisbanesocialchess>
@@ -77,6 +78,7 @@ Eligible titles include:
 - Telegram: <https://t.me/brisbanesocialchess>
 - X: <https://x.com/BrisbaneChess>
 - YouTube: <https://www.youtube.com/@brisbanesocialchess>
+- 30-second club census: <https://goo.gl/VQGmes>
 
 ---
 
