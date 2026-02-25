@@ -2,9 +2,19 @@
 version: 2
 updates:
   - package-ecosystem: 'github-actions'
-    directory: '/' # Location of the package files
+    directory: '/'
     schedule:
-      interval: 'daily' # Check for updates daily
+      interval: 'daily'
+    groups:
+      github-dependencies:
+        patterns:
+          - '*'
+    cooldown:
+      default-days: 7
+  - package-ecosystem: 'pip'
+    directory: '/'
+    schedule:
+      interval: 'daily'
     groups:
       github-dependencies:
         patterns:
