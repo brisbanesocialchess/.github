@@ -1,3 +1,4 @@
+---
 ls:
   .json: snake_case
   .yaml: regex:\.?[a-z0-9]+([-_][a-z0-9]+)*
