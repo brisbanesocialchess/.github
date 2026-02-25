@@ -5,3 +5,9 @@ updates:
     directory: '/' # Location of the package files
     schedule:
       interval: 'daily' # Check for updates daily
+    groups:
+      github-dependencies:
+        patterns:
+          - '*'
+    cooldown:
+      default-days: 7

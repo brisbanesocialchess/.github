@@ -6,9 +6,8 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 
 ## 👩🏽‍⚕️ Project Health/Development Status
 
-[![View The Project Board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
+[![View the project board](https://img.shields.io/badge/view_the_project_board-purple?style=for-the-badge)](https://github.com/orgs/brisbanesocialchess/projects/1/)
 [![Sponsor This Project](https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink)](https://github.com/sponsors/jbampton)
-[![Join the Discord Server](https://img.shields.io/discord/1299539471964049448?style=for-the-badge&label=%F0%9F%92%83%20Discord)](https://discord.com/invite/JWBKhQmzvD)
 
 ### 🔋 Status for the [Brisbane Social Chess Inc web application project](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io)
 
@@ -33,12 +32,6 @@ Welcome to Brisbane's premier social chess community. We are a registered not-fo
 [![Super-Linter Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/super-linter.yml)
 [![Test Git Clone Workflow Status](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/.github/actions/workflows/test.yml)
 
-## ▶️ We Play Chess On Three Social Networks 💃
-
-- [Chess.com](https://www.chess.com/club/brisbane-social-chess-inc)
-- [FIDE Online Arena](https://worldchess.com/community/bsc)
-- [lichess](https://lichess.org/team/brisbane-social-chess)
-
 ## 🗓️ Weekly Meetups
 
 Join us at any of our five weekly locations across Brisbane:
@@ -55,29 +48,6 @@ Join us at any of our five weekly locations across Brisbane:
 
 > **Fun, Friendly, and Free**
 
-## 🤝 Join Our Community
-
-We're always looking for enthusiastic individuals to join our community! Whether you're interested in:
-
-- Contributing to our projects and repositories
-- Helping with site development
-- Managing our Discord server
-- Playing chess with fellow enthusiasts
-
-After your pull request has been merged you will be invited to join the Brisbane Social Chess GitHub Organization.
-
-## 🎉 Join Our Discord Community
-
-Connect with other chess enthusiasts, join discussions, and participate in exclusive events by joining our Discord server!
-
-<p align="center">
-    <a href="https://discord.com/invite/JWBKhQmzvD" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
-    </a>
-</p>
-
-Our Discord server is the best place to stay updated on upcoming meetups, online tournaments, and community activities. Everyone is welcome, from beginners to seasoned players!
-
 ## 👑 FIDE Masters Welcome
 
 We extend a special invitation to [Master level chess players](https://en.wikipedia.org/wiki/Chess_rating_system) with official FIDE profiles. Eligible titles include:
@@ -89,49 +59,6 @@ We extend a special invitation to [Master level chess players](https://en.wikipe
 - Candidate Masters (CM)
 
 **To Join**: Please verify your credentials by joining our club on chess.com
-
-### 👨‍🚀 Our Masters
-
-- FM Stevan Jovic
-  - https://www.chess.com/member/stevanjovic
-  - https://lichess.org/coach/steva23
-  - https://ratings.fide.com/profile/923206
-
-## 👥 Team Members
-
-<!-- prettier-ignore-start -->
-| Role                    | Subrole                       | Chess.com   | Name                                                          | FIDE Profile | About |
-|-------------------------|-------------------------------| ----------- |---------------------------------------------------------------| ------------ | ----- |
-| President 🧔            | Co-organizer                  | N/A         | Ben Martin                                                    | [3274063](https://ratings.fide.com/profile/3274063) | How does the [horsey](https://en.wikipedia.org/wiki/Knight_(chess)) move again? 🤔 |
-| Treasurer 💳            | Organizer                     | [Super Admin](https://www.chess.com/member/doctorfaustus82) | [Matt McLean](https://github.com/LuckyNotGood)                | [3232581](https://ratings.fide.com/profile/3232581) | "A good player is always lucky" - [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) |
-| Secretary 🤹‍♂️         | Co-organizer                  | N/A         | Steve Anderson                                                | | Official [pawn](https://en.wikipedia.org/wiki/Pawn_(chess)) wrangler |
-| General Manager 👨‍🏫   | Co-organizer                  | [Coordinator](https://www.chess.com/member/profbarny) | Ross Barnard                                                  | [3244008](https://ratings.fide.com/profile/3244008) | |
-| General Manager ♟️      | Event Organizer               | N/A         | Stuart Holt                                                   | [3225569](https://ratings.fide.com/profile/3225569) | |
-| Administrator 💾        | Maintainer                    | [Owner](https://www.chess.com/member/rubyfu) | [John Bampton](https://github.com/jbampton) 👨‍🎨             | [311111104](https://ratings.fide.com/profile/311111104) | [GitHub](https://github.blog/) is more about collaboration and community than code. I am interested in [chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants) and [mathematics](https://mathworld.wolfram.com/Chess.html). Check out the [playground and home for all octocats](https://octodex.github.com/), created and maintained by the [GitHub](https://en.wikipedia.org/wiki/GitHub) Design team. [Ruby](https://www.ruby-lang.org/en/) is... A dynamic, open source [programming language](https://en.wikipedia.org/wiki/List_of_programming_languages) with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. |
-| Meetup Regular 👨       | Co-organizer                  | [Admin](https://www.chess.com/member/zezky2211) | Adam Lomsargis                                                | | Long time chess player with a great respect and passion for the game. I believe chess offers more than just a competitive space in which to battle your opponent. It's also a great way to socialise with intelligent people and have a laugh! :D |
-| Meetup Regular          | Co-organizer                  | [Admin](https://www.chess.com/member/hinewa) | Jimmy Joe                                                     | | |
-| Meetup Regular 👨‍⚖️    | Co-organizer                  | [Super Admin](https://www.chess.com/member/garveybiz) | [Robert Garvey](https://github.com/garveybiz)                 | | Welcome to Brisbane Social Chess. Come along and play with us, let us know your ideas, and help us organize future events. |
-| Meetup Regular ♟️       | Event Organizer               | [Coordinator](https://www.chess.com/member/dubiville)         | Joseph Tan                                                    | [3250105](https://ratings.fide.com/profile/3250105) | |
-| Meetup Regular 👾       | Discord Moderator Team Leader | [Coordinator](https://www.chess.com/member/thec_programmer) | [Thomas](https://github.com/therealnugget)                    | | |
-| Meetup Regular 👾       | Discord Moderator Team Leader | [Club member](https://www.chess.com/member/itz_shooty) | Jasper                                                        | | |
-| Meetup Regular 👾       | Discord Moderator Team Leader | [Club member](https://www.chess.com/member/eddie2o0) | Eddie                                                     | | |
-| Meetup Regular 👨       | Assistant Organizer           | N/A         | Roger Clarke                                                  | | |
-| Meetup Regular ♟️       | Event Organizer               | N/A         | Christoph Dierkes                                             | | |
-| Meetup Regular ♟️       | Event Organizer               | N/A         | Marty Benjamin                                                | | |
-| Meetup Regular ♟️       | Event Organizer               | N/A         | Peiqi Sun                                                     | | |
-| Lead Developer 💽       | GitHub Triage                 | [Club member](https://www.chess.com/member/maxbase) | [Max Base](https://github.com/BaseMax) 🧑‍💻 | | If you truly want something, whether it’s to achieve a goal, gain an ability, or reach a certain point in life, you can. All it takes is genuine desire, effort, and a clear plan. Want it, work for it, and you will get there. Nominate me as a <a href="https://stars.github.com/">GitHub Star</a> 👋 |
-| Core Developer 👨🏽‍🌾  | GitHub Triage                 | [Club member](https://www.chess.com/member/prio101) | [Mahabub Islam Prio](https://github.com/prio101) | | I am a maker. I make software, digitize long processes into quicker affordable systems. But now a days I came to love growing plants and farming cause it also provides solutions and gratitude toward earth itself. I joined Brisbane Social Chess Org with a vision to help solve their problems and authority is a collection of nice human beings. Looking forward to help and learn and grow. Charity Here: Context: Palestine https://www.wfp.org/emergencies/palestine-emergency |
-| Core Developer ⌨️       | GitHub Triage                 | N/A | [Sugiarto Udah](https://github.com/ugifractal)                | | |
-| Developer 〰️            | GitHub Triage                 | N/A | [Emeka](https://github.com/janus)                | | I am a lifelong learner, and I enjoy new challenges. However, life always throws surprises and I see such as opportunities to improve and move forward. At Brisbane Social Chess, I am fortunate to be in the company of great minds. |
-| Developer 🖱️           | GitHub Triage                 | [Club member](https://www.chess.com/member/anufdo) | [Anuradha Fernando](https://github.com/anufdo)                | | |
-| Virtual Team Member 🕹️ | GitHub Triage                 | N/A | [Michal Duszak](https://github.com/michal-duszak) | | |
-| Virtual Team Member 🕹️ | Discord Moderator             | N/A | [Abhushan Gautam](https://github.com/carefreeav09)            | | |
-| Virtual Team Member 🕹️ | Discord Moderator             | [Club member](https://www.chess.com/member/ayushrana182) | [Ayush Rana](https://github.com/ayushrana182)                 | | Always curious, always learning. Currently exploring MCP and MCP UIs, blending my love for tech with the creativity of chess and community. Good moves on the board, better vibes off the board 😎♟️ |
-| Virtual Team Member 🕹️ | Discord Moderator             | N/A | [Kotbi Abderrahmane](https://github.com/abdorah) | | |
-| Virtual Team Member 🕹️ | Discord Moderator             | [Club member](https://www.chess.com/member/pedramcvx) | [Mohammad Lotfi Akbarabadi](https://github.com/mohammadlotfia) | | I love chess and I casually follow the tournaments live on Twitch, it's so exciting when you see people's emotion and connection in the game. |
-| Virtual Team Member 🕹️ | Discord Moderator             | N/A | [Nicholas Meredith](https://github.com/udha)                  | | |
-| Virtual Team Member 🕹️ | Discord Moderator             | N/A | [SM Riad](https://github.com/smriad)                          | | |
-<!-- prettier-ignore-end -->
 
 ---
 
@@ -167,15 +94,15 @@ You can set your membership in the Brisbane Social Chess GitHub Organization to 
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
-## 🏨 Royal Hotel — A Quick Game is a Good Game
+## 🏨 Royal Hotel - A Quick Game is a Good Game
 
 ![Standard 4 Player Chess](images/standard-4-player-chess.jpg)
 
-## 🏡 Garden Room — Random Days Gone Bye
+## 🏡 Garden Room - Random Days Gone Bye
 
 ![Harmegedo The Board of Lords at the Garden Room](images/harmegedo-the-board-of-lords-at-the-garden-room.jpg)
 
-## 🧙‍♂️ Never Underestimate the Power of Jedi Master Big Bird
+## 🧙‍♂️ Royal Hotel - Never Underestimate the Power of Jedi Master Big Bird
 
 | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-1.jpg) | ![Never Underestimate the Power of Jedi Master Big Bird](images/never-underestimate-the-power-of-jedi-master-big-bird-2.jpg) |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
