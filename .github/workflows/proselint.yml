@@ -13,6 +13,7 @@ permissions:
 
 jobs:
   proselint:
+    name: 🧹 Run proselint
     runs-on: ubuntu-latest
 
     steps:
