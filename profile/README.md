@@ -72,6 +72,7 @@ Eligible titles include:
 - Current Live Production Site: <https://www.brisbanesocialchess.org.au/>
 - Development Site: <https://brisbanesocialchess.github.io/>
 - Development Site Backup, alternative hosting, admin PR deployment previews. (In progress) <https://brisbanesocialchess.pages.dev/>
+- Discord: <https://discord.gg/Tv9VHEb8PN>
 - Facebook: <https://www.facebook.com/BrisbaneSocialChess/>
 - Instagram: <https://www.instagram.com/brisbanesocialchess>
 - Lichess Team: <https://lichess.org/team/brisbane-social-chess-inc>
