@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-about: Report a bug to help us improve
+description: Report a bug to help us improve
 title: '[BUG] '
 labels: ['bug', 'needs-triage']
 assignees: []
@@ -8,32 +8,107 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🐛 Bug Description
-        A clear and concise description of what the bug is.
+        Thank you for taking the time to report a bug! Please fill out the form below to help us understand and fix the issue.
 
-        ## 🔄 Steps to Reproduce
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: 🐛 Bug Description
+      description: A clear and concise description of what the bug is.
+      placeholder: Tell us what went wrong...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: 🔄 Steps to Reproduce
+      description: Steps to reproduce the behavior
+      placeholder: |
         1. Go to '...'
         2. Click on '...'
         3. Scroll down to '...'
         4. See error
+    validations:
+      required: true
 
-        ## ✅ Expected Behavior
-        A clear and concise description of what you expected to happen.
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: ✅ Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: What should have happened?
+    validations:
+      required: true
 
-        ## ❌ Actual Behavior
-        A clear and concise description of what actually happened.
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: ❌ Actual Behavior
+      description: A clear and concise description of what actually happened.
+      placeholder: What actually happened?
+    validations:
+      required: true
 
-        ## 📸 Screenshots
-        If applicable, add screenshots to help explain your problem.
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 📸 Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+      placeholder: Drag and drop images here or paste them...
+    validations:
+      required: false
 
-        ## 🌍 Environment
-        - **Browser:** [e.g. Chrome, Firefox, Safari]
-        - **Version:** [e.g. 22]
-        - **Device:** [e.g. Desktop, Mobile]
-        - **OS:** [e.g. Windows, macOS, Linux, iOS, Android]
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      description: Which browser are you using?
+      placeholder: e.g. Chrome, Firefox, Safari
+    validations:
+      required: false
 
-        ## 📝 Additional Context
-        Add any other context about the problem here.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the browser/app?
+      placeholder: e.g. 22
+    validations:
+      required: false
 
-        ## 🔍 Possible Solution
-        If you have ideas on how to fix this bug, please describe them here.
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      description: What device are you using?
+      placeholder: e.g. Desktop, Mobile
+    validations:
+      required: false
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      description: What operating system are you using?
+      placeholder: e.g. Windows, macOS, Linux, iOS, Android
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Add any other context about the problem here.
+      placeholder: Any additional information that might help...
+    validations:
+      required: false
+
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: 🔍 Possible Solution
+      description: If you have ideas on how to fix this bug, please describe them here.
+      placeholder: Optional - your suggestions for fixing this issue...
+    validations:
+      required: false
