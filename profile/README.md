@@ -67,6 +67,7 @@ Eligible titles include:
 
 - Awesome Social Chess: <https://brisbanesocialchess.github.io/awesome-social-chess/>
 - Become an official club member: <https://app.joinit.com/o/brisbane-social-chess>
+- Chess.com Club: <https://www.chess.com/club/brisbane-social-chess>
 - Current Live Production Site: <https://www.brisbanesocialchess.org.au/>
 - Development Site: <https://brisbanesocialchess.github.io/>
 - Development Site Backup, alternative hosting, admin PR deployment previews. (In progress) <https://brisbanesocialchess.pages.dev/>
